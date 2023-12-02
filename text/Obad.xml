@@ -1,0 +1,2823 @@
+<OsisDocument>
+  <osisText osisIDWork="OSHB" osisRefWork="Bible" lang="he">
+    <header/>
+    <div type="book" osisID="Obad">
+      <chapter osisID="Obad.1">
+        <verse osisID="Obad.1.1">
+          <seg/>
+          <w id="31xeN" lemma="2377" morph="HNcmsc" n="1.0" x-source-word="חֲז֖וֹן">(...)
+            <seg/>
+          </w>
+          <w id="31Nvk" lemma="5662" morph="HNp" n="1" x-source-word="עֹֽבַדְיָ֑ה">(...)
+            <seg/>
+          </w>
+          <w id="31TyA" lemma="3541" morph="HD" x-source-word="כֹּֽה">(...)
+            <seg/>
+          </w>
+          <w id="31vuQ" lemma="559" morph="HVqp3ms" x-source-word="אָמַר֩">(...)
+            <seg/>
+          </w>
+          <w id="31TSc" lemma="136" morph="HNcmpc/Sp1cs" x-source-word="אֲדֹנָ֨/י">(...)
+            <seg/>
+          </w>
+          <w id="31k5P" lemma="3069" morph="HNp" n="0.0.2.0" x-source-word="יְהוִ֜ה">(...)
+            <seg/>
+          </w>
+          <w id="31nPh" lemma="l/123" morph="HR/Np" n="0.0.2" x-source-word="לֶ/אֱד֗וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31LN3" lemma="8052" morph="HNcfsa" x-source-word="שְׁמוּעָ֨ה">(...)
+            <seg/>
+          </w>
+          <w id="31Qzf" lemma="8085" morph="HVqp1cp" n="0.0.1.0" x-source-word="שָׁמַ֜עְנוּ">(...)
+            <seg/>
+          </w>
+          <w id="31aPd" lemma="m/854" morph="HR/R" x-source-word="מֵ/אֵ֤ת">(...)
+            <seg/>
+          </w>
+          <w id="31eYX" lemma="3068" morph="HNp" n="0.0.1" x-source-word="יְהוָה֙">(...)
+            <seg/>
+          </w>
+          <w id="31C5U" lemma="c/6735 a" morph="HC/Ncmsa" n="0.0.0" x-source-word="וְ/צִיר֙">(...)
+            <seg/>
+          </w>
+          <w id="31qNN" lemma="b/1471 a" morph="HRd/Ncmpa" x-source-word="בַּ/גּוֹיִ֣ם">(...)
+            <seg/>
+          </w>
+          <w id="31EVS" lemma="7971" morph="HVPp3ms" n="0.0" x-source-word="שֻׁלָּ֔ח">(...)
+            <seg/>
+          </w>
+          <w id="31PB6" lemma="6965 b" morph="HVqv2mp" x-source-word="ק֛וּמוּ">(...)
+            <seg/>
+          </w>
+          <w id="3137c" lemma="c/6965 b" morph="HC/Vqh1cp" x-source-word="וְ/נָק֥וּמָה">(...)
+            <seg/>
+          </w>
+          <w id="31x9c" lemma="5921 a" morph="HR/Sp3fs" x-source-word="עָלֶי/הָ">(...)
+            <seg/>
+          </w>
+          <w id="31yNB" lemma="l/4421" morph="HRd/Ncfsa" n="0" x-source-word="לַ/מִּלְחָמָֽה">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.2">
+          <seg/>
+          <w id="3129t" lemma="2009" morph="HTm" x-source-word="הִנֵּ֥ה">(...)
+            <seg/>
+          </w>
+          <w id="31KZG" lemma="6996 b" morph="HAamsa" n="1.0.0" x-source-word="קָטֹ֛ן">(...)
+            <seg/>
+          </w>
+          <w id="31TZE" lemma="5414" morph="HVqp1cs/Sp2ms" n="1.0" x-source-word="נְתַתִּ֖י/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31thY" lemma="b/1471 a" morph="HRd/Ncmpa" n="1" x-source-word="בַּ/גּוֹיִ֑ם">(...)
+            <seg/>
+          </w>
+          <w id="31JM7" lemma="959" morph="HVqsmsa" x-source-word="בָּז֥וּי">(...)
+            <seg/>
+          </w>
+          <w id="31fpo" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31W26" lemma="3966" morph="HD" n="0" x-source-word="מְאֹֽד">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.3">
+          <seg/>
+          <w id="31yw4" lemma="2087" morph="HNcmsc" x-source-word="זְד֤וֹן">(...)
+            <seg/>
+          </w>
+          <w id="31jbg" lemma="3820 a" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="לִבְּ/ךָ֙">(...)
+            <seg/>
+          </w>
+          <w id="31USR" lemma="5377" morph="HVhp3ms/Sp2ms" n="1.1" x-source-word="הִשִּׁיאֶ֔/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31v6U" lemma="7931" morph="HVqrmsc" x-source-word="שֹׁכְנִ֥י">(...)
+            <seg/>
+          </w>
+          <w id="315SS" lemma="b/2288" morph="HR/Ncmpc" x-source-word="בְ/חַגְוֵי">(...)
+            <seg/>
+          </w>
+          <w id="31GzE" lemma="5553" morph="HNcmsa" n="1.0" x-source-word="סֶּ֖לַע">(...)
+            <seg/>
+          </w>
+          <w id="31qCU" lemma="4791" morph="HNcmsc" x-source-word="מְר֣וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31g2y" lemma="7675" morph="HNcfsc/Sp3ms" n="1" x-source-word="שִׁבְתּ֑/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31jQb" lemma="559" morph="HVqrmsa" x-source-word="אֹמֵ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31794" lemma="b/3820 a" morph="HR/Ncmsc/Sp3ms" n="0.1" x-source-word="בְּ/לִבּ֔/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31CsU" lemma="4310" morph="HTi" x-source-word="מִ֥י">(...)
+            <seg/>
+          </w>
+          <w id="31XR4" lemma="3381" morph="HVhi3ms/Sp1cs" n="0.0" x-source-word="יוֹרִדֵ֖/נִי">(...)
+            <seg/>
+          </w>
+          <w id="31KvS" lemma="776" morph="HNcbsa" n="0" x-source-word="אָֽרֶץ">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.4">
+          <seg/>
+          <w id="31dBc" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+            <seg/>
+          </w>
+          <w id="31nAB" lemma="1361" morph="HVhi2ms" x-source-word="תַּגְבִּ֣יהַּ">(...)
+            <seg/>
+          </w>
+          <w id="31kfX" lemma="k/5404" morph="HRd/Ncmsa" n="1.1" x-source-word="כַּ/נֶּ֔שֶׁר">(...)
+            <seg/>
+          </w>
+          <w id="31Wkf" lemma="c/518 a" morph="HC/C" x-source-word="וְ/אִם">(...)
+            <seg/>
+          </w>
+          <w id="31wrL" lemma="996" morph="HR" x-source-word="בֵּ֥ין">(...)
+            <seg/>
+          </w>
+          <w id="313TL" lemma="3556" morph="HNcmpa" n="1.0" x-source-word="כּֽוֹכָבִ֖ים">(...)
+            <seg/>
+          </w>
+          <w id="31LeN" lemma="7760 a" morph="HVqsmsa" x-source-word="שִׂ֣ים">(...)
+            <seg/>
+          </w>
+          <w id="31sMn" lemma="7064" morph="HNcmsc/Sp2ms" n="1" x-source-word="קִנֶּ֑/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31Y3z" lemma="m/8033" morph="HR/D" x-source-word="מִ/שָּׁ֥ם">(...)
+            <seg/>
+          </w>
+          <w id="31NQN" lemma="3381" morph="HVhi1cs/Sp2ms" n="0.0" x-source-word="אוֹרִֽידְ/ךָ֖">(...)
+            <seg/>
+          </w>
+          <w id="31uLf" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+            <seg/>
+          </w>
+          <w id="31kA7" lemma="3068" morph="HNp" n="0" x-source-word="יְהוָֽה">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.5">
+          <seg/>
+          <w id="313TS" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+            <seg/>
+          </w>
+          <w id="31NFp" lemma="1590" morph="HNcmpa" x-source-word="גַּנָּבִ֤ים">(...)
+            <seg/>
+          </w>
+          <w id="317am" lemma="935" morph="HVqp3cp" x-source-word="בָּאֽוּ">(...)
+            <seg/>
+          </w>
+          <w id="31hh7" lemma="l" morph="HR/Sp2ms" n="1.2.0" x-source-word="לְ/ךָ֙">(...)
+            <seg/>
+          </w>
+          <w id="31BsK" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+            <seg/>
+          </w>
+          <w id="31fsu" lemma="7703" morph="HVqrmpc" x-source-word="שׁ֣וֹדְדֵי">(...)
+            <seg/>
+          </w>
+          <w id="318M6" lemma="3915" morph="HNcmsa" n="1.2" x-source-word="לַ֔יְלָה">(...)
+            <seg/>
+          </w>
+          <w id="31wM5" lemma="349 a" morph="HTi" x-source-word="אֵ֣יךְ">(...)
+            <seg/>
+          </w>
+          <w id="31qty" lemma="1820" morph="HVNp2ms" n="1.1" x-source-word="נִדְמֵ֔יתָה">(...)
+            <seg/>
+          </w>
+          <w id="315gQ" lemma="i/3808" morph="HTi/Tn" x-source-word="הֲ/ל֥וֹא">(...)
+            <seg/>
+          </w>
+          <w id="31Xw6" lemma="1589" morph="HVqi3mp" n="1.0" x-source-word="יִגְנְב֖וּ">(...)
+            <seg/>
+          </w>
+          <w id="31eHJ" lemma="1767" morph="HNcmsc/Sp3mp" n="1" x-source-word="דַּיָּ֑/ם">(...)
+            <seg/>
+          </w>
+          <w id="31H6L" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+            <seg/>
+          </w>
+          <w id="31bmv" lemma="1219" morph="HVqrmpa" n="0.1.0" x-source-word="בֹּֽצְרִים֙">(...)
+            <seg/>
+          </w>
+          <w id="31FV9" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+            <seg/>
+          </w>
+          <w id="31Xm1" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָ֔/ךְ">(...)
+            <seg/>
+          </w>
+          <w id="31UE6" lemma="i/3808" morph="HTi/Tn" n="0.0" x-source-word="הֲ/ל֖וֹא">(...)
+            <seg/>
+          </w>
+          <w id="31goK" lemma="7604" morph="HVhi3mp" x-source-word="יַשְׁאִ֥ירוּ">(...)
+            <seg/>
+          </w>
+          <w id="31CyH" lemma="5955" morph="HNcfpa" n="0" x-source-word="עֹלֵלֽוֹת">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.6">
+          <seg/>
+          <w id="31A4a" lemma="349 a" morph="HTi" n="0.1.0" x-source-word="אֵ֚יךְ">(...)
+            <seg/>
+          </w>
+          <w id="315Pr" lemma="2664" morph="HVNp3cp" x-source-word="נֶחְפְּשׂ֣וּ">(...)
+            <seg/>
+          </w>
+          <w id="31L4k" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+            <seg/>
+          </w>
+          <w id="31Mnv" lemma="1158" morph="HVNp3cp" n="0.0" x-source-word="נִבְע֖וּ">(...)
+            <seg/>
+          </w>
+          <w id="31mwU" lemma="4710" morph="HNcmpc/Sp3ms" n="0" x-source-word="מַצְפֻּנָֽי/ו">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.7">
+          <seg/>
+          <w id="31tKT" lemma="5704" morph="HR" x-source-word="עַֽד">(...)
+            <seg/>
+          </w>
+          <w id="31NRT" lemma="d/1366" morph="HTd/Ncmsa" x-source-word="הַ/גְּב֣וּל">(...)
+            <seg/>
+          </w>
+          <w id="31sRU" lemma="7971" morph="HVpp3cp/Sp2ms" n="1.1.1" x-source-word="שִׁלְּח֗וּ/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31Wxq" lemma="3605" morph="HNcmsc" n="1.1.0" x-source-word="כֹּ֚ל">(...)
+            <seg/>
+          </w>
+          <w id="319qY" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+            <seg/>
+          </w>
+          <w id="31n5f" lemma="1285" morph="HNcfsc/Sp2ms" n="1.1" x-source-word="בְרִיתֶ֔/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31YUq" lemma="5377" morph="HVhp3cp/Sp2ms" n="1.0.0" x-source-word="הִשִּׁיא֛וּ/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31fQr" lemma="3201" morph="HVqp3cp" x-source-word="יָכְל֥וּ">(...)
+            <seg/>
+          </w>
+          <w id="31L7t" lemma="l" morph="HR/Sp2ms" n="1.0" x-source-word="לְ/ךָ֖">(...)
+            <seg/>
+          </w>
+          <w id="31A74" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+            <seg/>
+          </w>
+          <w id="31dNE" lemma="7965" morph="HNcmsc/Sp2ms" n="1" x-source-word="שְׁלֹמֶ֑/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31xdF" lemma="3899" morph="HNcbsc/Sp2ms" n="0.1.1" x-source-word="לַחְמְ/ךָ֗">(...)
+            <seg/>
+          </w>
+          <w id="31AYg" lemma="7760 a" morph="HVqi3mp" x-source-word="יָשִׂ֤ימוּ">(...)
+            <seg/>
+          </w>
+          <w id="31Ls9" lemma="4204" morph="HNcmsa" n="0.1.0" x-source-word="מָזוֹר֙">(...)
+            <seg/>
+          </w>
+          <w id="31Snp" lemma="8478" morph="HR/Sp2ms" n="0.1" x-source-word="תַּחְתֶּ֔י/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="3187B" lemma="369" morph="HTn" x-source-word="אֵ֥ין">(...)
+            <seg/>
+          </w>
+          <w id="31nLp" lemma="8394" morph="HNcfsa" n="0.0" x-source-word="תְּבוּנָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31PzC" lemma="b" morph="HR/Sp3ms" n="0" x-source-word="בּֽ/וֹ">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.8">
+          <seg/>
+          <w id="31NPq" lemma="i/3808" morph="HTi/Tn" n="1.0.0" x-source-word="הֲ/ל֛וֹא">(...)
+            <seg/>
+          </w>
+          <w id="31d5m" lemma="b/3117" morph="HRd/Ncmsa" x-source-word="בַּ/יּ֥וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31BYa" lemma="d/1931" morph="HTd/Pp3ms" n="1.0" x-source-word="הַ/ה֖וּא">(...)
+            <seg/>
+          </w>
+          <w id="31LJh" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+            <seg/>
+          </w>
+          <w id="31tRR" lemma="3068" morph="HNp" n="1" x-source-word="יְהוָ֑ה">(...)
+            <seg/>
+          </w>
+          <w id="31Q7E" lemma="c/6" morph="HC/Vhq1cs" x-source-word="וְ/הַאֲבַדְתִּ֤י">(...)
+            <seg/>
+          </w>
+          <w id="31dv1" lemma="2450" morph="HAampa" n="0.1.0" x-source-word="חֲכָמִים֙">(...)
+            <seg/>
+          </w>
+          <w id="31QwM" lemma="m/123" morph="HR/Np" n="0.1" x-source-word="מֵֽ/אֱד֔וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31a62" lemma="c/8394" morph="HC/Ncfsa" n="0.0" x-source-word="וּ/תְבוּנָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31KvD" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+            <seg/>
+          </w>
+          <w id="31GLz" lemma="6215" morph="HNp" n="0" x-source-word="עֵשָֽׂו">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.9">
+          <seg/>
+          <w id="31BU7" lemma="c/2865" morph="HC/Vqq3cp" x-source-word="וְ/חַתּ֥וּ">(...)
+            <seg/>
+          </w>
+          <w id="31iy2" lemma="1368" morph="HAampc/Sp2ms" n="1.0" x-source-word="גִבּוֹרֶ֖י/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31zQ2" lemma="8487" morph="HNp" n="1" x-source-word="תֵּימָ֑ן">(...)
+            <seg/>
+          </w>
+          <w id="31Wxx" lemma="4616" morph="HR" x-source-word="לְמַ֧עַן">(...)
+            <seg/>
+          </w>
+          <w id="31jQ8" lemma="3772" morph="HVNi3ms" x-source-word="יִכָּֽרֶת">(...)
+            <seg/>
+          </w>
+          <w id="31Haa" lemma="376" morph="HNcmsa" n="0.0.0" x-source-word="אִ֛ישׁ">(...)
+            <seg/>
+          </w>
+          <w id="31fJN" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+            <seg/>
+          </w>
+          <w id="319KV" lemma="6215" morph="HNp" n="0.0" x-source-word="עֵשָׂ֖ו">(...)
+            <seg/>
+          </w>
+          <w id="31F1s" lemma="m/6993" morph="HR/Ncmsa" n="0" x-source-word="מִ/קָּֽטֶל">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.10">
+          <seg/>
+          <w id="31dns" lemma="m/2555" morph="HR/Ncmsc" n="1.0.0" x-source-word="מֵ/חֲמַ֛ס">(...)
+            <seg/>
+          </w>
+          <w id="31GK3" lemma="251" morph="HNcmsc/Sp2ms" x-source-word="אָחִ֥י/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="31nRZ" lemma="3290" morph="HNp" n="1.0" x-source-word="יַעֲקֹ֖ב">(...)
+            <seg/>
+          </w>
+          <w id="31cpb" lemma="3680" morph="HVpi3fs/Sp2ms" x-source-word="תְּכַסְּ/ךָ֣">(...)
+            <seg/>
+          </w>
+          <w id="31zio" lemma="955" morph="HNcfsa" n="1" x-source-word="בוּשָׁ֑ה">(...)
+            <seg/>
+          </w>
+          <w id="31Qsh" lemma="c/3772" morph="HC/VNq2ms" n="0.0" x-source-word="וְ/נִכְרַ֖תָּ">(...)
+            <seg/>
+          </w>
+          <w id="31zTj" lemma="l/5769" morph="HR/Ncmsa" n="0" x-source-word="לְ/עוֹלָֽם">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.11">
+          <seg/>
+          <w id="31fPi" lemma="b/3117" morph="HR/Ncmsc" n="1.1.0" x-source-word="בְּ/יוֹם֙">(...)
+            <seg/>
+          </w>
+          <w id="31GYe" lemma="5975" morph="HVqc/Sp2ms" x-source-word="עֲמָֽדְ/ךָ֣">(...)
+            <seg/>
+          </w>
+          <w id="31Bbz" lemma="m/5048" morph="HR/R" n="1.1" x-source-word="מִ/נֶּ֔גֶד">(...)
+            <seg/>
+          </w>
+          <w id="31VA9" lemma="b/3117" morph="HR/Ncmsc" n="1.0.0" x-source-word="בְּ/י֛וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31fV3" lemma="7617" morph="HVqc" x-source-word="שְׁב֥וֹת">(...)
+            <seg/>
+          </w>
+          <w id="31Sov" lemma="2114 a" morph="HAampa" n="1.0" x-source-word="זָרִ֖ים">(...)
+            <seg/>
+          </w>
+          <w id="31V27" lemma="2428" morph="HNcmsc/Sp3ms" n="1" x-source-word="חֵיל֑/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31ifp" lemma="c/5237" morph="HC/Aampa" n="0.1.1.0" x-source-word="וְ/נָכְרִ֞ים">(...)
+            <seg/>
+          </w>
+          <w id="317ZG" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+            <seg/>
+          </w>
+          <w id="31B2d" lemma="8179" morph="HNcmsc/Sp3ms" type="x-ketiv" x-source-word="שער/ו">(...)
+            <seg/>
+          </w>
+          <w id="31SV6" lemma="c/5921 a" morph="HC/R" x-source-word="וְ/עַל">(...)
+            <seg/>
+          </w>
+          <w id="31G83" lemma="3389" morph="HNp" n="0.1.0" x-source-word="יְרוּשָׁלִַ֨ם֙">(...)
+            <seg/>
+          </w>
+          <w id="31vzS" lemma="3032" morph="HVqp3cp" x-source-word="יַדּ֣וּ">(...)
+            <seg/>
+          </w>
+          <w id="31Gq9" lemma="1486" morph="HNcmsa" n="0.1" x-source-word="גוֹרָ֔ל">(...)
+            <seg/>
+          </w>
+          <w id="313y8" lemma="1571" morph="HTa" x-source-word="גַּם">(...)
+            <seg/>
+          </w>
+          <w id="31TXw" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31Y4K" lemma="k/259" morph="HR/Acmsc" x-source-word="כְּ/אַחַ֥ד">(...)
+            <seg/>
+          </w>
+          <w id="31C32" lemma="m" morph="HR/Sp3mp" n="0" x-source-word="מֵ/הֶֽם">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.12">
+          <seg/>
+          <w id="31aMT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+            <seg/>
+          </w>
+          <w id="31Cof" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֤רֶא">(...)
+            <seg/>
+          </w>
+          <w id="31YWU" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְ/יוֹם">(...)
+            <seg/>
+          </w>
+          <w id="31rAQ" lemma="251" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="אָחִ֨י/ךָ֙">(...)
+            <seg/>
+          </w>
+          <w id="31fLi" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31Ptj" lemma="5235" morph="HNcmsc/Sp3ms" n="1.1" x-source-word="נָכְר֔/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31AJj" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+            <seg/>
+          </w>
+          <w id="319Hv" lemma="8055" morph="HVqj2ms" x-source-word="תִּשְׂמַ֥ח">(...)
+            <seg/>
+          </w>
+          <w id="31j1i" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵֽי">(...)
+            <seg/>
+          </w>
+          <w id="31J9J" lemma="3063" morph="HNp" n="1.0" x-source-word="יְהוּדָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31U4n" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+            <seg/>
+          </w>
+          <w id="312Kt" lemma="6" morph="HVqc/Sp3mp" n="1" x-source-word="אָבְדָ֑/ם">(...)
+            <seg/>
+          </w>
+          <w id="31RmH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+            <seg/>
+          </w>
+          <w id="31SWL" lemma="1431" morph="HVhj2ms" x-source-word="תַּגְדֵּ֥ל">(...)
+            <seg/>
+          </w>
+          <w id="3175P" lemma="6310" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="פִּ֖י/ךָ">(...)
+            <seg/>
+          </w>
+          <w id="313Lj" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31Qa3" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.13">
+          <seg/>
+          <w id="31WTe" lemma="408" morph="HTn" x-source-word="אַל">(...)
+            <seg/>
+          </w>
+          <w id="316VM" lemma="935" morph="HVqj2ms" x-source-word="תָּב֤וֹא">(...)
+            <seg/>
+          </w>
+          <w id="31sKn" lemma="b/8179" morph="HR/Ncmsc" x-source-word="בְ/שַֽׁעַר">(...)
+            <seg/>
+          </w>
+          <w id="31oAj" lemma="5971 a" morph="HNcmsc/Sp1cs" n="1.1.0" x-source-word="עַמִּ/י֙">(...)
+            <seg/>
+          </w>
+          <w id="31AxB" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31Ap3" lemma="343" morph="HNcmsc/Sp3mp" n="1.1" x-source-word="אֵידָ֔/ם">(...)
+            <seg/>
+          </w>
+          <w id="31CEu" lemma="408" morph="HTn" x-source-word="אַל">(...)
+            <seg/>
+          </w>
+          <w id="31zpy" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֧רֶא">(...)
+            <seg/>
+          </w>
+          <w id="31FiN" lemma="1571" morph="HD" x-source-word="גַם">(...)
+            <seg/>
+          </w>
+          <w id="31cLk" lemma="859 a" morph="HPp2ms" n="1.0.0" x-source-word="אַתָּ֛ה">(...)
+            <seg/>
+          </w>
+          <w id="3192v" lemma="b/7451 c" morph="HR/Ncfsc/Sp3ms" n="1.0" x-source-word="בְּ/רָעָת֖/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31j63" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31LFW" lemma="343" morph="HNcmsc/Sp3ms" n="1" x-source-word="אֵיד֑/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31FbT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+            <seg/>
+          </w>
+          <w id="31Bx7" lemma="7971" morph="HVqj2fp" x-source-word="תִּשְׁלַ֥חְנָה">(...)
+            <seg/>
+          </w>
+          <w id="31btu" lemma="b/2428" morph="HR/Ncmsc/Sp3ms" n="0.0" x-source-word="בְ/חֵיל֖/וֹ">(...)
+            <seg/>
+          </w>
+          <w id="31rTK" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31SHw" lemma="343" morph="HNcmsc/Sp3ms" n="0" x-source-word="אֵידֽ/וֹ">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.14">
+          <seg/>
+          <w id="31VuH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַֽל">(...)
+            <seg/>
+          </w>
+          <w id="31Axb" lemma="5975" morph="HVqj2ms" n="1.1.0" x-source-word="תַּעֲמֹד֙">(...)
+            <seg/>
+          </w>
+          <w id="31xva" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+            <seg/>
+          </w>
+          <w id="31NrT" lemma="d/6563" morph="HTd/Ncmsa" n="1.1" x-source-word="הַ/פֶּ֔רֶק">(...)
+            <seg/>
+          </w>
+          <w id="31iAD" lemma="l/3772" morph="HR/Vhc" n="1.0" x-source-word="לְ/הַכְרִ֖ית">(...)
+            <seg/>
+          </w>
+          <w id="31372" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31FMU" lemma="6412 a" morph="HNcmpc/Sp3ms" n="1" x-source-word="פְּלִיטָ֑י/ו">(...)
+            <seg/>
+          </w>
+          <w id="31SaV" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+            <seg/>
+          </w>
+          <w id="314W9" lemma="5462" morph="HVhj2ms" x-source-word="תַּסְגֵּ֥ר">(...)
+            <seg/>
+          </w>
+          <w id="31MmM" lemma="8300" morph="HNcmpc/Sp3ms" n="0.0" x-source-word="שְׂרִידָ֖י/ו">(...)
+            <seg/>
+          </w>
+          <w id="31wJn" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+            <seg/>
+          </w>
+          <w id="31CQo" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.15">
+          <seg/>
+          <w id="31XyU" lemma="3588 a" morph="HC" x-source-word="כִּֽי">(...)
+            <seg/>
+          </w>
+          <w id="31BG4" lemma="7138" morph="HAamsa" x-source-word="קָר֥וֹב">(...)
+            <seg/>
+          </w>
+          <w id="31YHH" lemma="3117" morph="HNcmsc" x-source-word="יוֹם">(...)
+            <seg/>
+          </w>
+          <w id="31sHf" lemma="3068" morph="HNp" n="1.0" x-source-word="יְהוָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31iee" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+            <seg/>
+          </w>
+          <w id="313eS" lemma="3605" morph="HNcmsc" x-source-word="כָּל">(...)
+            <seg/>
+          </w>
+          <w id="31ddd" lemma="d/1471 a" morph="HTd/Ncmpa" n="1" x-source-word="הַ/גּוֹיִ֑ם">(...)
+            <seg/>
+          </w>
+          <w id="31hxo" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּ/אֲשֶׁ֤ר">(...)
+            <seg/>
+          </w>
+          <w id="31TW6" lemma="6213 a" morph="HVqp2ms" n="0.1.0" x-source-word="עָשִׂ֨יתָ֙">(...)
+            <seg/>
+          </w>
+          <w id="31PVx" lemma="6213 a" morph="HVNi3ms" x-source-word="יֵעָ֣שֶׂה">(...)
+            <seg/>
+          </w>
+          <w id="31PGK" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָּ֔/ךְ">(...)
+            <seg/>
+          </w>
+          <w id="31U4a" lemma="1576" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="גְּמֻלְ/ךָ֖">(...)
+            <seg/>
+          </w>
+          <w id="31dSQ" lemma="7725" morph="HVqi3ms" x-source-word="יָשׁ֥וּב">(...)
+            <seg/>
+          </w>
+          <w id="31Qbs" lemma="b/7218 a" morph="HR/Ncmsc/Sp2ms" n="0" x-source-word="בְּ/רֹאשֶֽׁ/ךָ">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.16">
+          <seg/>
+          <w id="31ndZ" lemma="3588 a" morph="HC" n="1.1.1" x-source-word="כִּ֗י">(...)
+            <seg/>
+          </w>
+          <w id="31Xa1" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּֽ/אֲשֶׁ֤ר">(...)
+            <seg/>
+          </w>
+          <w id="313yJ" lemma="8354" morph="HVqp2mp" n="1.1.0" x-source-word="שְׁתִיתֶם֙">(...)
+            <seg/>
+          </w>
+          <w id="31B6c" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+            <seg/>
+          </w>
+          <w id="31bju" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31cn3" lemma="6944" morph="HNcmsc/Sp1cs" n="1.1" x-source-word="קָדְשִׁ֔/י">(...)
+            <seg/>
+          </w>
+          <w id="317mS" lemma="8354" morph="HVqi3mp" x-source-word="יִשְׁתּ֥וּ">(...)
+            <seg/>
+          </w>
+          <w id="31dJe" lemma="3605" morph="HNcmsc" x-source-word="כָֽל">(...)
+            <seg/>
+          </w>
+          <w id="31WvG" lemma="d/1471 a" morph="HTd/Ncmpa" n="1.0" x-source-word="הַ/גּוֹיִ֖ם">(...)
+            <seg/>
+          </w>
+          <w id="31RXg" lemma="8548" morph="HNcmsa" n="1" x-source-word="תָּמִ֑יד">(...)
+            <seg/>
+          </w>
+          <w id="31pqY" lemma="c/8354" morph="HC/Vqq3cp" x-source-word="וְ/שָׁת֣וּ">(...)
+            <seg/>
+          </w>
+          <w id="31n9v" lemma="c/3886 a" morph="HC/Vqq3cp" n="0.1" x-source-word="וְ/לָע֔וּ">(...)
+            <seg/>
+          </w>
+          <w id="31gYe" lemma="c/1961" morph="HC/Vqq3cp" n="0.0" x-source-word="וְ/הָי֖וּ">(...)
+            <seg/>
+          </w>
+          <w id="31eXj" lemma="k/3808" morph="HR/Tn" x-source-word="כְּ/ל֥וֹא">(...)
+            <seg/>
+          </w>
+          <w id="318ro" lemma="1961" morph="HVqp3cp" n="0" x-source-word="הָיֽוּ">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.17">
+          <seg/>
+          <w id="31v5z" lemma="c/b/2022" morph="HC/R/Ncmsc" x-source-word="וּ/בְ/הַ֥ר">(...)
+            <seg/>
+          </w>
+          <w id="31bCC" lemma="6726" morph="HNp" n="1.0.0" x-source-word="צִיּ֛וֹן">(...)
+            <seg/>
+          </w>
+          <w id="316By" lemma="1961" morph="HVqi3fs" x-source-word="תִּהְיֶ֥ה">(...)
+            <seg/>
+          </w>
+          <w id="31CZB" lemma="6413" morph="HNcfsa" n="1.0" x-source-word="פְלֵיטָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31VTb" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָ֣יָה">(...)
+            <seg/>
+          </w>
+          <w id="316qf" lemma="6944" morph="HNcmsa" n="1" x-source-word="קֹ֑דֶשׁ">(...)
+            <seg/>
+          </w>
+          <w id="31efz" lemma="c/3423" morph="HC/Vqq3cp" n="0.1.0" x-source-word="וְ/יָֽרְשׁוּ֙">(...)
+            <seg/>
+          </w>
+          <w id="31QG5" lemma="1004 b" morph="HNcmsc" x-source-word="בֵּ֣ית">(...)
+            <seg/>
+          </w>
+          <w id="313k3" lemma="3290" morph="HNp" n="0.1" x-source-word="יַֽעֲקֹ֔ב">(...)
+            <seg/>
+          </w>
+          <w id="311rL" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+            <seg/>
+          </w>
+          <w id="31W2c" lemma="4180" morph="HNcmpc/Sp3mp" n="0" x-source-word="מוֹרָֽשֵׁי/הֶם">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.18">
+          <seg/>
+          <w id="31mL3" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָיָה֩">(...)
+            <seg/>
+          </w>
+          <w id="31zfc" lemma="1004 b" morph="HNcmsc" x-source-word="בֵית">(...)
+            <seg/>
+          </w>
+          <w id="31sYp" lemma="3290" morph="HNp" x-source-word="יַעֲקֹ֨ב">(...)
+            <seg/>
+          </w>
+          <w id="31GvF" lemma="784" morph="HNcbsa" n="1.1.1.0" x-source-word="אֵ֜שׁ">(...)
+            <seg/>
+          </w>
+          <w id="31dAC" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֧ית">(...)
+            <seg/>
+          </w>
+          <w id="31i4W" lemma="3130" morph="HNp" x-source-word="יוֹסֵ֣ף">(...)
+            <seg/>
+          </w>
+          <w id="31chR" lemma="3852" morph="HNcfsa" n="1.1.1" x-source-word="לֶהָבָ֗ה">(...)
+            <seg/>
+          </w>
+          <w id="31Ddq" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֤ית">(...)
+            <seg/>
+          </w>
+          <w id="31dSp" lemma="6215" morph="HNp" n="1.1.0" x-source-word="עֵשָׂו֙">(...)
+            <seg/>
+          </w>
+          <w id="31ecS" lemma="l/7179" morph="HR/Ncmsa" n="1.1" x-source-word="לְ/קַ֔שׁ">(...)
+            <seg/>
+          </w>
+          <w id="312tG" lemma="c/1814" morph="HC/Vqq3cp" x-source-word="וְ/דָלְק֥וּ">(...)
+            <seg/>
+          </w>
+          <w id="31Xzm" lemma="b" morph="HR/Sp3mp" n="1.0" x-source-word="בָ/הֶ֖ם">(...)
+            <seg/>
+          </w>
+          <w id="31CCj" lemma="c/398" morph="HC/Vqq3cp/Sp3mp" n="1" x-source-word="וַ/אֲכָל֑וּ/ם">(...)
+            <seg/>
+          </w>
+          <w id="31gV8" lemma="c/3808" morph="HC/Tn" x-source-word="וְ/לֹֽא">(...)
+            <seg/>
+          </w>
+          <w id="31Czz" lemma="1961" morph="HVqi3ms" x-source-word="יִֽהְיֶ֤ה">(...)
+            <seg/>
+          </w>
+          <w id="31uXX" lemma="8300" morph="HNcmsa" n="0.1.0" x-source-word="שָׂרִיד֙">(...)
+            <seg/>
+          </w>
+          <w id="31xCL" lemma="l/1004 b" morph="HR/Ncmsc" x-source-word="לְ/בֵ֣ית">(...)
+            <seg/>
+          </w>
+          <w id="31Qnr" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+            <seg/>
+          </w>
+          <w id="316kU" lemma="3588 a" morph="HC" x-source-word="כִּ֥י">(...)
+            <seg/>
+          </w>
+          <w id="31qry" lemma="3068" morph="HNp" n="0.0" x-source-word="יְהוָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31bvP" lemma="1696" morph="HVpp3ms" n="0" x-source-word="דִּבֵּֽר">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.19">
+          <seg/>
+          <w id="31wjj" lemma="c/3423" morph="HC/Vqq3cp" x-source-word="וְ/יָרְשׁ֨וּ">(...)
+            <seg/>
+          </w>
+          <w id="31Tn7" lemma="d/5045" morph="HTd/Ncmsa" n="1.2.1.0" x-source-word="הַ/נֶּ֜גֶב">(...)
+            <seg/>
+          </w>
+          <w id="31hEs" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31xAF" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31qg1" lemma="6215" morph="HNp" n="1.2.1" x-source-word="עֵשָׂ֗ו">(...)
+            <seg/>
+          </w>
+          <w id="316w9" lemma="c/d/8219" morph="HC/Td/Ncfsa" n="1.2.0" x-source-word="וְ/הַ/שְּׁפֵלָה֙">(...)
+            <seg/>
+          </w>
+          <w id="31wA4" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31ibe" lemma="6430" morph="HNgmpa" n="1.2" x-source-word="פְּלִשְׁתִּ֔ים">(...)
+            <seg/>
+          </w>
+          <w id="31v8V" lemma="c/3423" morph="HC/Vqq3cp" n="1.1.0" x-source-word="וְ/יָרְשׁוּ֙">(...)
+            <seg/>
+          </w>
+          <w id="31T2S" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31tkJ" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+            <seg/>
+          </w>
+          <w id="31EXL" lemma="669" morph="HNp" n="1.1" x-source-word="אֶפְרַ֔יִם">(...)
+            <seg/>
+          </w>
+          <w id="31ZPN" lemma="c/853" morph="HC/To" n="1.0" x-source-word="וְ/אֵ֖ת">(...)
+            <seg/>
+          </w>
+          <w id="31q1G" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+            <seg/>
+          </w>
+          <w id="31bYD" lemma="8111" morph="HNp" n="1" x-source-word="שֹׁמְר֑וֹן">(...)
+            <seg/>
+          </w>
+          <w id="31v2F" lemma="c/1144" morph="HC/Np" n="0.0" x-source-word="וּ/בִנְיָמִ֖ן">(...)
+            <seg/>
+          </w>
+          <w id="317vt" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31kDm" lemma="d/1568" morph="HTd/Np" n="0" x-source-word="הַ/גִּלְעָֽד">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.20">
+          <seg/>
+          <w id="31doW" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֣ת">(...)
+            <seg/>
+          </w>
+          <w id="31eRa" lemma="d/2426" morph="HTd/Ncmsa" x-source-word="הַֽ/חֵל">(...)
+            <seg/>
+          </w>
+          <w id="31kDf" lemma="d/2088" morph="HTd/Pdxms" n="1.1.0.0" x-source-word="הַ֠/זֶּה">(...)
+            <seg/>
+          </w>
+          <w id="3163G" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵ֨י">(...)
+            <seg/>
+          </w>
+          <w id="31WPn" lemma="3478" morph="HNp" x-source-word="יִשְׂרָאֵ֤ל">(...)
+            <seg/>
+          </w>
+          <w id="311jv" lemma="834 a" morph="HTr" x-source-word="אֲשֶֽׁר">(...)
+            <seg/>
+          </w>
+          <w id="31cK8" lemma="3669 a" morph="HNgmpa" n="1.1.0" x-source-word="כְּנַעֲנִים֙">(...)
+            <seg/>
+          </w>
+          <w id="31DDb" lemma="5704" morph="HR" x-source-word="עַד">(...)
+            <seg/>
+          </w>
+          <w id="31RCg" lemma="6886" morph="HNp" n="1.1" x-source-word="צָ֣רְפַ֔ת">(...)
+            <seg/>
+          </w>
+          <w id="315KE" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֥ת">(...)
+            <seg/>
+          </w>
+          <w id="31qVd" lemma="3389" morph="HNp" n="1.0" x-source-word="יְרוּשָׁלִַ֖ם">(...)
+            <seg/>
+          </w>
+          <w id="31koG" lemma="834 a" morph="HTr" x-source-word="אֲשֶׁ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31e6B" lemma="b/5614" morph="HR/Np" n="1" x-source-word="בִּ/סְפָרַ֑ד">(...)
+            <seg/>
+          </w>
+          <w id="318GY" lemma="3423" morph="HVqi3mp" n="0.1" x-source-word="יִֽרְשׁ֕וּ">(...)
+            <seg/>
+          </w>
+          <w id="31GpK" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+            <seg/>
+          </w>
+          <w id="3168C" lemma="5892 b" morph="HNcfpc" x-source-word="עָרֵ֥י">(...)
+            <seg/>
+          </w>
+          <w id="31CMz" lemma="d/5045" morph="HTd/Ncmsa" n="0" x-source-word="הַ/נֶּֽגֶב">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verse osisID="Obad.1.21">
+          <seg/>
+          <w id="31D4c" lemma="c/5927" morph="HC/Vqq3cp" x-source-word="וְ/עָל֤וּ">(...)
+            <seg/>
+          </w>
+          <w id="31ta1" lemma="3467" morph="HVhrmpa" n="1.1.0" x-source-word="מֽוֹשִׁעִים֙">(...)
+            <seg/>
+          </w>
+          <w id="31JnD" lemma="b/2022" morph="HR/Ncmsc" x-source-word="בְּ/הַ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31jfz" lemma="6726" morph="HNp" n="1.1" x-source-word="צִיּ֔וֹן">(...)
+            <seg/>
+          </w>
+          <w id="31ErQ" lemma="l/8199" morph="HR/Vqc" n="1.0" x-source-word="לִ/שְׁפֹּ֖ט">(...)
+            <seg/>
+          </w>
+          <w id="314fv" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+            <seg/>
+          </w>
+          <w id="31yDv" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+            <seg/>
+          </w>
+          <w id="31jyT" lemma="6215" morph="HNp" n="1" x-source-word="עֵשָׂ֑ו">(...)
+            <seg/>
+          </w>
+          <w id="31Unh" lemma="c/1961" morph="HC/Vqq3fs" x-source-word="וְ/הָיְתָ֥ה">(...)
+            <seg/>
+          </w>
+          <w id="31QH2" lemma="l/3068" morph="HR/Np" n="0.0" x-source-word="לַֽ/יהוָ֖ה">(...)
+            <seg/>
+          </w>
+          <w id="31xxn" lemma="d/4410" morph="HTd/Ncfsa" n="0" x-source-word="הַ/מְּלוּכָֽה">(...)
+            <seg/>
+          </w>
+        </verse>
+        <verses>
+          <verses osisID="Obad.1.1">
+            <seg/>
+            <w id="31xeN" lemma="2377" morph="HNcmsc" n="1.0" x-source-word="חֲז֖וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31Nvk" lemma="5662" morph="HNp" n="1" x-source-word="עֹֽבַדְיָ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31TyA" lemma="3541" morph="HD" x-source-word="כֹּֽה">(...)
+              <seg/>
+            </w>
+            <w id="31vuQ" lemma="559" morph="HVqp3ms" x-source-word="אָמַר֩">(...)
+              <seg/>
+            </w>
+            <w id="31TSc" lemma="136" morph="HNcmpc/Sp1cs" x-source-word="אֲדֹנָ֨/י">(...)
+              <seg/>
+            </w>
+            <w id="31k5P" lemma="3069" morph="HNp" n="0.0.2.0" x-source-word="יְהוִ֜ה">(...)
+              <seg/>
+            </w>
+            <w id="31nPh" lemma="l/123" morph="HR/Np" n="0.0.2" x-source-word="לֶ/אֱד֗וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31LN3" lemma="8052" morph="HNcfsa" x-source-word="שְׁמוּעָ֨ה">(...)
+              <seg/>
+            </w>
+            <w id="31Qzf" lemma="8085" morph="HVqp1cp" n="0.0.1.0" x-source-word="שָׁמַ֜עְנוּ">(...)
+              <seg/>
+            </w>
+            <w id="31aPd" lemma="m/854" morph="HR/R" x-source-word="מֵ/אֵ֤ת">(...)
+              <seg/>
+            </w>
+            <w id="31eYX" lemma="3068" morph="HNp" n="0.0.1" x-source-word="יְהוָה֙">(...)
+              <seg/>
+            </w>
+            <w id="31C5U" lemma="c/6735 a" morph="HC/Ncmsa" n="0.0.0" x-source-word="וְ/צִיר֙">(...)
+              <seg/>
+            </w>
+            <w id="31qNN" lemma="b/1471 a" morph="HRd/Ncmpa" x-source-word="בַּ/גּוֹיִ֣ם">(...)
+              <seg/>
+            </w>
+            <w id="31EVS" lemma="7971" morph="HVPp3ms" n="0.0" x-source-word="שֻׁלָּ֔ח">(...)
+              <seg/>
+            </w>
+            <w id="31PB6" lemma="6965 b" morph="HVqv2mp" x-source-word="ק֛וּמוּ">(...)
+              <seg/>
+            </w>
+            <w id="3137c" lemma="c/6965 b" morph="HC/Vqh1cp" x-source-word="וְ/נָק֥וּמָה">(...)
+              <seg/>
+            </w>
+            <w id="31x9c" lemma="5921 a" morph="HR/Sp3fs" x-source-word="עָלֶי/הָ">(...)
+              <seg/>
+            </w>
+            <w id="31yNB" lemma="l/4421" morph="HRd/Ncfsa" n="0" x-source-word="לַ/מִּלְחָמָֽה">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.2">
+            <seg/>
+            <w id="3129t" lemma="2009" morph="HTm" x-source-word="הִנֵּ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31KZG" lemma="6996 b" morph="HAamsa" n="1.0.0" x-source-word="קָטֹ֛ן">(...)
+              <seg/>
+            </w>
+            <w id="31TZE" lemma="5414" morph="HVqp1cs/Sp2ms" n="1.0" x-source-word="נְתַתִּ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31thY" lemma="b/1471 a" morph="HRd/Ncmpa" n="1" x-source-word="בַּ/גּוֹיִ֑ם">(...)
+              <seg/>
+            </w>
+            <w id="31JM7" lemma="959" morph="HVqsmsa" x-source-word="בָּז֥וּי">(...)
+              <seg/>
+            </w>
+            <w id="31fpo" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31W26" lemma="3966" morph="HD" n="0" x-source-word="מְאֹֽד">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.3">
+            <seg/>
+            <w id="31yw4" lemma="2087" morph="HNcmsc" x-source-word="זְד֤וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31jbg" lemma="3820 a" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="לִבְּ/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31USR" lemma="5377" morph="HVhp3ms/Sp2ms" n="1.1" x-source-word="הִשִּׁיאֶ֔/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31v6U" lemma="7931" morph="HVqrmsc" x-source-word="שֹׁכְנִ֥י">(...)
+              <seg/>
+            </w>
+            <w id="315SS" lemma="b/2288" morph="HR/Ncmpc" x-source-word="בְ/חַגְוֵי">(...)
+              <seg/>
+            </w>
+            <w id="31GzE" lemma="5553" morph="HNcmsa" n="1.0" x-source-word="סֶּ֖לַע">(...)
+              <seg/>
+            </w>
+            <w id="31qCU" lemma="4791" morph="HNcmsc" x-source-word="מְר֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31g2y" lemma="7675" morph="HNcfsc/Sp3ms" n="1" x-source-word="שִׁבְתּ֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31jQb" lemma="559" morph="HVqrmsa" x-source-word="אֹמֵ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31794" lemma="b/3820 a" morph="HR/Ncmsc/Sp3ms" n="0.1" x-source-word="בְּ/לִבּ֔/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31CsU" lemma="4310" morph="HTi" x-source-word="מִ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31XR4" lemma="3381" morph="HVhi3ms/Sp1cs" n="0.0" x-source-word="יוֹרִדֵ֖/נִי">(...)
+              <seg/>
+            </w>
+            <w id="31KvS" lemma="776" morph="HNcbsa" n="0" x-source-word="אָֽרֶץ">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.4">
+            <seg/>
+            <w id="31dBc" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31nAB" lemma="1361" morph="HVhi2ms" x-source-word="תַּגְבִּ֣יהַּ">(...)
+              <seg/>
+            </w>
+            <w id="31kfX" lemma="k/5404" morph="HRd/Ncmsa" n="1.1" x-source-word="כַּ/נֶּ֔שֶׁר">(...)
+              <seg/>
+            </w>
+            <w id="31Wkf" lemma="c/518 a" morph="HC/C" x-source-word="וְ/אִם">(...)
+              <seg/>
+            </w>
+            <w id="31wrL" lemma="996" morph="HR" x-source-word="בֵּ֥ין">(...)
+              <seg/>
+            </w>
+            <w id="313TL" lemma="3556" morph="HNcmpa" n="1.0" x-source-word="כּֽוֹכָבִ֖ים">(...)
+              <seg/>
+            </w>
+            <w id="31LeN" lemma="7760 a" morph="HVqsmsa" x-source-word="שִׂ֣ים">(...)
+              <seg/>
+            </w>
+            <w id="31sMn" lemma="7064" morph="HNcmsc/Sp2ms" n="1" x-source-word="קִנֶּ֑/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31Y3z" lemma="m/8033" morph="HR/D" x-source-word="מִ/שָּׁ֥ם">(...)
+              <seg/>
+            </w>
+            <w id="31NQN" lemma="3381" morph="HVhi1cs/Sp2ms" n="0.0" x-source-word="אוֹרִֽידְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31uLf" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+              <seg/>
+            </w>
+            <w id="31kA7" lemma="3068" morph="HNp" n="0" x-source-word="יְהוָֽה">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.5">
+            <seg/>
+            <w id="313TS" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31NFp" lemma="1590" morph="HNcmpa" x-source-word="גַּנָּבִ֤ים">(...)
+              <seg/>
+            </w>
+            <w id="317am" lemma="935" morph="HVqp3cp" x-source-word="בָּאֽוּ">(...)
+              <seg/>
+            </w>
+            <w id="31hh7" lemma="l" morph="HR/Sp2ms" n="1.2.0" x-source-word="לְ/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31BsK" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31fsu" lemma="7703" morph="HVqrmpc" x-source-word="שׁ֣וֹדְדֵי">(...)
+              <seg/>
+            </w>
+            <w id="318M6" lemma="3915" morph="HNcmsa" n="1.2" x-source-word="לַ֔יְלָה">(...)
+              <seg/>
+            </w>
+            <w id="31wM5" lemma="349 a" morph="HTi" x-source-word="אֵ֣יךְ">(...)
+              <seg/>
+            </w>
+            <w id="31qty" lemma="1820" morph="HVNp2ms" n="1.1" x-source-word="נִדְמֵ֔יתָה">(...)
+              <seg/>
+            </w>
+            <w id="315gQ" lemma="i/3808" morph="HTi/Tn" x-source-word="הֲ/ל֥וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31Xw6" lemma="1589" morph="HVqi3mp" n="1.0" x-source-word="יִגְנְב֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31eHJ" lemma="1767" morph="HNcmsc/Sp3mp" n="1" x-source-word="דַּיָּ֑/ם">(...)
+              <seg/>
+            </w>
+            <w id="31H6L" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31bmv" lemma="1219" morph="HVqrmpa" n="0.1.0" x-source-word="בֹּֽצְרִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31FV9" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+              <seg/>
+            </w>
+            <w id="31Xm1" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָ֔/ךְ">(...)
+              <seg/>
+            </w>
+            <w id="31UE6" lemma="i/3808" morph="HTi/Tn" n="0.0" x-source-word="הֲ/ל֖וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31goK" lemma="7604" morph="HVhi3mp" x-source-word="יַשְׁאִ֥ירוּ">(...)
+              <seg/>
+            </w>
+            <w id="31CyH" lemma="5955" morph="HNcfpa" n="0" x-source-word="עֹלֵלֽוֹת">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.6">
+            <seg/>
+            <w id="31A4a" lemma="349 a" morph="HTi" n="0.1.0" x-source-word="אֵ֚יךְ">(...)
+              <seg/>
+            </w>
+            <w id="315Pr" lemma="2664" morph="HVNp3cp" x-source-word="נֶחְפְּשׂ֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31L4k" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+              <seg/>
+            </w>
+            <w id="31Mnv" lemma="1158" morph="HVNp3cp" n="0.0" x-source-word="נִבְע֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31mwU" lemma="4710" morph="HNcmpc/Sp3ms" n="0" x-source-word="מַצְפֻּנָֽי/ו">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.7">
+            <seg/>
+            <w id="31tKT" lemma="5704" morph="HR" x-source-word="עַֽד">(...)
+              <seg/>
+            </w>
+            <w id="31NRT" lemma="d/1366" morph="HTd/Ncmsa" x-source-word="הַ/גְּב֣וּל">(...)
+              <seg/>
+            </w>
+            <w id="31sRU" lemma="7971" morph="HVpp3cp/Sp2ms" n="1.1.1" x-source-word="שִׁלְּח֗וּ/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31Wxq" lemma="3605" morph="HNcmsc" n="1.1.0" x-source-word="כֹּ֚ל">(...)
+              <seg/>
+            </w>
+            <w id="319qY" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+              <seg/>
+            </w>
+            <w id="31n5f" lemma="1285" morph="HNcfsc/Sp2ms" n="1.1" x-source-word="בְרִיתֶ֔/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31YUq" lemma="5377" morph="HVhp3cp/Sp2ms" n="1.0.0" x-source-word="הִשִּׁיא֛וּ/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31fQr" lemma="3201" morph="HVqp3cp" x-source-word="יָכְל֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31L7t" lemma="l" morph="HR/Sp2ms" n="1.0" x-source-word="לְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31A74" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+              <seg/>
+            </w>
+            <w id="31dNE" lemma="7965" morph="HNcmsc/Sp2ms" n="1" x-source-word="שְׁלֹמֶ֑/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31xdF" lemma="3899" morph="HNcbsc/Sp2ms" n="0.1.1" x-source-word="לַחְמְ/ךָ֗">(...)
+              <seg/>
+            </w>
+            <w id="31AYg" lemma="7760 a" morph="HVqi3mp" x-source-word="יָשִׂ֤ימוּ">(...)
+              <seg/>
+            </w>
+            <w id="31Ls9" lemma="4204" morph="HNcmsa" n="0.1.0" x-source-word="מָזוֹר֙">(...)
+              <seg/>
+            </w>
+            <w id="31Snp" lemma="8478" morph="HR/Sp2ms" n="0.1" x-source-word="תַּחְתֶּ֔י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="3187B" lemma="369" morph="HTn" x-source-word="אֵ֥ין">(...)
+              <seg/>
+            </w>
+            <w id="31nLp" lemma="8394" morph="HNcfsa" n="0.0" x-source-word="תְּבוּנָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31PzC" lemma="b" morph="HR/Sp3ms" n="0" x-source-word="בּֽ/וֹ">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.8">
+            <seg/>
+            <w id="31NPq" lemma="i/3808" morph="HTi/Tn" n="1.0.0" x-source-word="הֲ/ל֛וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31d5m" lemma="b/3117" morph="HRd/Ncmsa" x-source-word="בַּ/יּ֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31BYa" lemma="d/1931" morph="HTd/Pp3ms" n="1.0" x-source-word="הַ/ה֖וּא">(...)
+              <seg/>
+            </w>
+            <w id="31LJh" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+              <seg/>
+            </w>
+            <w id="31tRR" lemma="3068" morph="HNp" n="1" x-source-word="יְהוָ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31Q7E" lemma="c/6" morph="HC/Vhq1cs" x-source-word="וְ/הַאֲבַדְתִּ֤י">(...)
+              <seg/>
+            </w>
+            <w id="31dv1" lemma="2450" morph="HAampa" n="0.1.0" x-source-word="חֲכָמִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31QwM" lemma="m/123" morph="HR/Np" n="0.1" x-source-word="מֵֽ/אֱד֔וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31a62" lemma="c/8394" morph="HC/Ncfsa" n="0.0" x-source-word="וּ/תְבוּנָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31KvD" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31GLz" lemma="6215" morph="HNp" n="0" x-source-word="עֵשָֽׂו">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.9">
+            <seg/>
+            <w id="31BU7" lemma="c/2865" morph="HC/Vqq3cp" x-source-word="וְ/חַתּ֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31iy2" lemma="1368" morph="HAampc/Sp2ms" n="1.0" x-source-word="גִבּוֹרֶ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31zQ2" lemma="8487" morph="HNp" n="1" x-source-word="תֵּימָ֑ן">(...)
+              <seg/>
+            </w>
+            <w id="31Wxx" lemma="4616" morph="HR" x-source-word="לְמַ֧עַן">(...)
+              <seg/>
+            </w>
+            <w id="31jQ8" lemma="3772" morph="HVNi3ms" x-source-word="יִכָּֽרֶת">(...)
+              <seg/>
+            </w>
+            <w id="31Haa" lemma="376" morph="HNcmsa" n="0.0.0" x-source-word="אִ֛ישׁ">(...)
+              <seg/>
+            </w>
+            <w id="31fJN" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="319KV" lemma="6215" morph="HNp" n="0.0" x-source-word="עֵשָׂ֖ו">(...)
+              <seg/>
+            </w>
+            <w id="31F1s" lemma="m/6993" morph="HR/Ncmsa" n="0" x-source-word="מִ/קָּֽטֶל">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.10">
+            <seg/>
+            <w id="31dns" lemma="m/2555" morph="HR/Ncmsc" n="1.0.0" x-source-word="מֵ/חֲמַ֛ס">(...)
+              <seg/>
+            </w>
+            <w id="31GK3" lemma="251" morph="HNcmsc/Sp2ms" x-source-word="אָחִ֥י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31nRZ" lemma="3290" morph="HNp" n="1.0" x-source-word="יַעֲקֹ֖ב">(...)
+              <seg/>
+            </w>
+            <w id="31cpb" lemma="3680" morph="HVpi3fs/Sp2ms" x-source-word="תְּכַסְּ/ךָ֣">(...)
+              <seg/>
+            </w>
+            <w id="31zio" lemma="955" morph="HNcfsa" n="1" x-source-word="בוּשָׁ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31Qsh" lemma="c/3772" morph="HC/VNq2ms" n="0.0" x-source-word="וְ/נִכְרַ֖תָּ">(...)
+              <seg/>
+            </w>
+            <w id="31zTj" lemma="l/5769" morph="HR/Ncmsa" n="0" x-source-word="לְ/עוֹלָֽם">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.11">
+            <seg/>
+            <w id="31fPi" lemma="b/3117" morph="HR/Ncmsc" n="1.1.0" x-source-word="בְּ/יוֹם֙">(...)
+              <seg/>
+            </w>
+            <w id="31GYe" lemma="5975" morph="HVqc/Sp2ms" x-source-word="עֲמָֽדְ/ךָ֣">(...)
+              <seg/>
+            </w>
+            <w id="31Bbz" lemma="m/5048" morph="HR/R" n="1.1" x-source-word="מִ/נֶּ֔גֶד">(...)
+              <seg/>
+            </w>
+            <w id="31VA9" lemma="b/3117" morph="HR/Ncmsc" n="1.0.0" x-source-word="בְּ/י֛וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31fV3" lemma="7617" morph="HVqc" x-source-word="שְׁב֥וֹת">(...)
+              <seg/>
+            </w>
+            <w id="31Sov" lemma="2114 a" morph="HAampa" n="1.0" x-source-word="זָרִ֖ים">(...)
+              <seg/>
+            </w>
+            <w id="31V27" lemma="2428" morph="HNcmsc/Sp3ms" n="1" x-source-word="חֵיל֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31ifp" lemma="c/5237" morph="HC/Aampa" n="0.1.1.0" x-source-word="וְ/נָכְרִ֞ים">(...)
+              <seg/>
+            </w>
+            <w id="317ZG" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+              <seg/>
+            </w>
+            <w id="31B2d" lemma="8179" morph="HNcmsc/Sp3ms" type="x-ketiv" x-source-word="שער/ו">(...)
+              <seg/>
+            </w>
+            <w id="31SV6" lemma="c/5921 a" morph="HC/R" x-source-word="וְ/עַל">(...)
+              <seg/>
+            </w>
+            <w id="31G83" lemma="3389" morph="HNp" n="0.1.0" x-source-word="יְרוּשָׁלִַ֨ם֙">(...)
+              <seg/>
+            </w>
+            <w id="31vzS" lemma="3032" morph="HVqp3cp" x-source-word="יַדּ֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Gq9" lemma="1486" morph="HNcmsa" n="0.1" x-source-word="גוֹרָ֔ל">(...)
+              <seg/>
+            </w>
+            <w id="313y8" lemma="1571" morph="HTa" x-source-word="גַּם">(...)
+              <seg/>
+            </w>
+            <w id="31TXw" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31Y4K" lemma="k/259" morph="HR/Acmsc" x-source-word="כְּ/אַחַ֥ד">(...)
+              <seg/>
+            </w>
+            <w id="31C32" lemma="m" morph="HR/Sp3mp" n="0" x-source-word="מֵ/הֶֽם">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.12">
+            <seg/>
+            <w id="31aMT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31Cof" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֤רֶא">(...)
+              <seg/>
+            </w>
+            <w id="31YWU" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְ/יוֹם">(...)
+              <seg/>
+            </w>
+            <w id="31rAQ" lemma="251" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="אָחִ֨י/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31fLi" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Ptj" lemma="5235" morph="HNcmsc/Sp3ms" n="1.1" x-source-word="נָכְר֔/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31AJj" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="319Hv" lemma="8055" morph="HVqj2ms" x-source-word="תִּשְׂמַ֥ח">(...)
+              <seg/>
+            </w>
+            <w id="31j1i" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵֽי">(...)
+              <seg/>
+            </w>
+            <w id="31J9J" lemma="3063" morph="HNp" n="1.0" x-source-word="יְהוּדָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31U4n" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="312Kt" lemma="6" morph="HVqc/Sp3mp" n="1" x-source-word="אָבְדָ֑/ם">(...)
+              <seg/>
+            </w>
+            <w id="31RmH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31SWL" lemma="1431" morph="HVhj2ms" x-source-word="תַּגְדֵּ֥ל">(...)
+              <seg/>
+            </w>
+            <w id="3175P" lemma="6310" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="פִּ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="313Lj" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Qa3" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.13">
+            <seg/>
+            <w id="31WTe" lemma="408" morph="HTn" x-source-word="אַל">(...)
+              <seg/>
+            </w>
+            <w id="316VM" lemma="935" morph="HVqj2ms" x-source-word="תָּב֤וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31sKn" lemma="b/8179" morph="HR/Ncmsc" x-source-word="בְ/שַֽׁעַר">(...)
+              <seg/>
+            </w>
+            <w id="31oAj" lemma="5971 a" morph="HNcmsc/Sp1cs" n="1.1.0" x-source-word="עַמִּ/י֙">(...)
+              <seg/>
+            </w>
+            <w id="31AxB" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Ap3" lemma="343" morph="HNcmsc/Sp3mp" n="1.1" x-source-word="אֵידָ֔/ם">(...)
+              <seg/>
+            </w>
+            <w id="31CEu" lemma="408" morph="HTn" x-source-word="אַל">(...)
+              <seg/>
+            </w>
+            <w id="31zpy" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֧רֶא">(...)
+              <seg/>
+            </w>
+            <w id="31FiN" lemma="1571" morph="HD" x-source-word="גַם">(...)
+              <seg/>
+            </w>
+            <w id="31cLk" lemma="859 a" morph="HPp2ms" n="1.0.0" x-source-word="אַתָּ֛ה">(...)
+              <seg/>
+            </w>
+            <w id="3192v" lemma="b/7451 c" morph="HR/Ncfsc/Sp3ms" n="1.0" x-source-word="בְּ/רָעָת֖/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31j63" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31LFW" lemma="343" morph="HNcmsc/Sp3ms" n="1" x-source-word="אֵיד֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31FbT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31Bx7" lemma="7971" morph="HVqj2fp" x-source-word="תִּשְׁלַ֥חְנָה">(...)
+              <seg/>
+            </w>
+            <w id="31btu" lemma="b/2428" morph="HR/Ncmsc/Sp3ms" n="0.0" x-source-word="בְ/חֵיל֖/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31rTK" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31SHw" lemma="343" morph="HNcmsc/Sp3ms" n="0" x-source-word="אֵידֽ/וֹ">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.14">
+            <seg/>
+            <w id="31VuH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַֽל">(...)
+              <seg/>
+            </w>
+            <w id="31Axb" lemma="5975" morph="HVqj2ms" n="1.1.0" x-source-word="תַּעֲמֹד֙">(...)
+              <seg/>
+            </w>
+            <w id="31xva" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="31NrT" lemma="d/6563" morph="HTd/Ncmsa" n="1.1" x-source-word="הַ/פֶּ֔רֶק">(...)
+              <seg/>
+            </w>
+            <w id="31iAD" lemma="l/3772" morph="HR/Vhc" n="1.0" x-source-word="לְ/הַכְרִ֖ית">(...)
+              <seg/>
+            </w>
+            <w id="31372" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31FMU" lemma="6412 a" morph="HNcmpc/Sp3ms" n="1" x-source-word="פְּלִיטָ֑י/ו">(...)
+              <seg/>
+            </w>
+            <w id="31SaV" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="314W9" lemma="5462" morph="HVhj2ms" x-source-word="תַּסְגֵּ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31MmM" lemma="8300" morph="HNcmpc/Sp3ms" n="0.0" x-source-word="שְׂרִידָ֖י/ו">(...)
+              <seg/>
+            </w>
+            <w id="31wJn" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31CQo" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.15">
+            <seg/>
+            <w id="31XyU" lemma="3588 a" morph="HC" x-source-word="כִּֽי">(...)
+              <seg/>
+            </w>
+            <w id="31BG4" lemma="7138" morph="HAamsa" x-source-word="קָר֥וֹב">(...)
+              <seg/>
+            </w>
+            <w id="31YHH" lemma="3117" morph="HNcmsc" x-source-word="יוֹם">(...)
+              <seg/>
+            </w>
+            <w id="31sHf" lemma="3068" morph="HNp" n="1.0" x-source-word="יְהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31iee" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="313eS" lemma="3605" morph="HNcmsc" x-source-word="כָּל">(...)
+              <seg/>
+            </w>
+            <w id="31ddd" lemma="d/1471 a" morph="HTd/Ncmpa" n="1" x-source-word="הַ/גּוֹיִ֑ם">(...)
+              <seg/>
+            </w>
+            <w id="31hxo" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּ/אֲשֶׁ֤ר">(...)
+              <seg/>
+            </w>
+            <w id="31TW6" lemma="6213 a" morph="HVqp2ms" n="0.1.0" x-source-word="עָשִׂ֨יתָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31PVx" lemma="6213 a" morph="HVNi3ms" x-source-word="יֵעָ֣שֶׂה">(...)
+              <seg/>
+            </w>
+            <w id="31PGK" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָּ֔/ךְ">(...)
+              <seg/>
+            </w>
+            <w id="31U4a" lemma="1576" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="גְּמֻלְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31dSQ" lemma="7725" morph="HVqi3ms" x-source-word="יָשׁ֥וּב">(...)
+              <seg/>
+            </w>
+            <w id="31Qbs" lemma="b/7218 a" morph="HR/Ncmsc/Sp2ms" n="0" x-source-word="בְּ/רֹאשֶֽׁ/ךָ">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.16">
+            <seg/>
+            <w id="31ndZ" lemma="3588 a" morph="HC" n="1.1.1" x-source-word="כִּ֗י">(...)
+              <seg/>
+            </w>
+            <w id="31Xa1" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּֽ/אֲשֶׁ֤ר">(...)
+              <seg/>
+            </w>
+            <w id="313yJ" lemma="8354" morph="HVqp2mp" n="1.1.0" x-source-word="שְׁתִיתֶם֙">(...)
+              <seg/>
+            </w>
+            <w id="31B6c" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="31bju" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31cn3" lemma="6944" morph="HNcmsc/Sp1cs" n="1.1" x-source-word="קָדְשִׁ֔/י">(...)
+              <seg/>
+            </w>
+            <w id="317mS" lemma="8354" morph="HVqi3mp" x-source-word="יִשְׁתּ֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31dJe" lemma="3605" morph="HNcmsc" x-source-word="כָֽל">(...)
+              <seg/>
+            </w>
+            <w id="31WvG" lemma="d/1471 a" morph="HTd/Ncmpa" n="1.0" x-source-word="הַ/גּוֹיִ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31RXg" lemma="8548" morph="HNcmsa" n="1" x-source-word="תָּמִ֑יד">(...)
+              <seg/>
+            </w>
+            <w id="31pqY" lemma="c/8354" morph="HC/Vqq3cp" x-source-word="וְ/שָׁת֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31n9v" lemma="c/3886 a" morph="HC/Vqq3cp" n="0.1" x-source-word="וְ/לָע֔וּ">(...)
+              <seg/>
+            </w>
+            <w id="31gYe" lemma="c/1961" morph="HC/Vqq3cp" n="0.0" x-source-word="וְ/הָי֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31eXj" lemma="k/3808" morph="HR/Tn" x-source-word="כְּ/ל֥וֹא">(...)
+              <seg/>
+            </w>
+            <w id="318ro" lemma="1961" morph="HVqp3cp" n="0" x-source-word="הָיֽוּ">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.17">
+            <seg/>
+            <w id="31v5z" lemma="c/b/2022" morph="HC/R/Ncmsc" x-source-word="וּ/בְ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31bCC" lemma="6726" morph="HNp" n="1.0.0" x-source-word="צִיּ֛וֹן">(...)
+              <seg/>
+            </w>
+            <w id="316By" lemma="1961" morph="HVqi3fs" x-source-word="תִּהְיֶ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31CZB" lemma="6413" morph="HNcfsa" n="1.0" x-source-word="פְלֵיטָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31VTb" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָ֣יָה">(...)
+              <seg/>
+            </w>
+            <w id="316qf" lemma="6944" morph="HNcmsa" n="1" x-source-word="קֹ֑דֶשׁ">(...)
+              <seg/>
+            </w>
+            <w id="31efz" lemma="c/3423" morph="HC/Vqq3cp" n="0.1.0" x-source-word="וְ/יָֽרְשׁוּ֙">(...)
+              <seg/>
+            </w>
+            <w id="31QG5" lemma="1004 b" morph="HNcmsc" x-source-word="בֵּ֣ית">(...)
+              <seg/>
+            </w>
+            <w id="313k3" lemma="3290" morph="HNp" n="0.1" x-source-word="יַֽעֲקֹ֔ב">(...)
+              <seg/>
+            </w>
+            <w id="311rL" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="31W2c" lemma="4180" morph="HNcmpc/Sp3mp" n="0" x-source-word="מוֹרָֽשֵׁי/הֶם">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.18">
+            <seg/>
+            <w id="31mL3" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָיָה֩">(...)
+              <seg/>
+            </w>
+            <w id="31zfc" lemma="1004 b" morph="HNcmsc" x-source-word="בֵית">(...)
+              <seg/>
+            </w>
+            <w id="31sYp" lemma="3290" morph="HNp" x-source-word="יַעֲקֹ֨ב">(...)
+              <seg/>
+            </w>
+            <w id="31GvF" lemma="784" morph="HNcbsa" n="1.1.1.0" x-source-word="אֵ֜שׁ">(...)
+              <seg/>
+            </w>
+            <w id="31dAC" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֧ית">(...)
+              <seg/>
+            </w>
+            <w id="31i4W" lemma="3130" morph="HNp" x-source-word="יוֹסֵ֣ף">(...)
+              <seg/>
+            </w>
+            <w id="31chR" lemma="3852" morph="HNcfsa" n="1.1.1" x-source-word="לֶהָבָ֗ה">(...)
+              <seg/>
+            </w>
+            <w id="31Ddq" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֤ית">(...)
+              <seg/>
+            </w>
+            <w id="31dSp" lemma="6215" morph="HNp" n="1.1.0" x-source-word="עֵשָׂו֙">(...)
+              <seg/>
+            </w>
+            <w id="31ecS" lemma="l/7179" morph="HR/Ncmsa" n="1.1" x-source-word="לְ/קַ֔שׁ">(...)
+              <seg/>
+            </w>
+            <w id="312tG" lemma="c/1814" morph="HC/Vqq3cp" x-source-word="וְ/דָלְק֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Xzm" lemma="b" morph="HR/Sp3mp" n="1.0" x-source-word="בָ/הֶ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31CCj" lemma="c/398" morph="HC/Vqq3cp/Sp3mp" n="1" x-source-word="וַ/אֲכָל֑וּ/ם">(...)
+              <seg/>
+            </w>
+            <w id="31gV8" lemma="c/3808" morph="HC/Tn" x-source-word="וְ/לֹֽא">(...)
+              <seg/>
+            </w>
+            <w id="31Czz" lemma="1961" morph="HVqi3ms" x-source-word="יִֽהְיֶ֤ה">(...)
+              <seg/>
+            </w>
+            <w id="31uXX" lemma="8300" morph="HNcmsa" n="0.1.0" x-source-word="שָׂרִיד֙">(...)
+              <seg/>
+            </w>
+            <w id="31xCL" lemma="l/1004 b" morph="HR/Ncmsc" x-source-word="לְ/בֵ֣ית">(...)
+              <seg/>
+            </w>
+            <w id="31Qnr" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+              <seg/>
+            </w>
+            <w id="316kU" lemma="3588 a" morph="HC" x-source-word="כִּ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31qry" lemma="3068" morph="HNp" n="0.0" x-source-word="יְהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31bvP" lemma="1696" morph="HVpp3ms" n="0" x-source-word="דִּבֵּֽר">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.19">
+            <seg/>
+            <w id="31wjj" lemma="c/3423" morph="HC/Vqq3cp" x-source-word="וְ/יָרְשׁ֨וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Tn7" lemma="d/5045" morph="HTd/Ncmsa" n="1.2.1.0" x-source-word="הַ/נֶּ֜גֶב">(...)
+              <seg/>
+            </w>
+            <w id="31hEs" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31xAF" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31qg1" lemma="6215" morph="HNp" n="1.2.1" x-source-word="עֵשָׂ֗ו">(...)
+              <seg/>
+            </w>
+            <w id="316w9" lemma="c/d/8219" morph="HC/Td/Ncfsa" n="1.2.0" x-source-word="וְ/הַ/שְּׁפֵלָה֙">(...)
+              <seg/>
+            </w>
+            <w id="31wA4" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31ibe" lemma="6430" morph="HNgmpa" n="1.2" x-source-word="פְּלִשְׁתִּ֔ים">(...)
+              <seg/>
+            </w>
+            <w id="31v8V" lemma="c/3423" morph="HC/Vqq3cp" n="1.1.0" x-source-word="וְ/יָרְשׁוּ֙">(...)
+              <seg/>
+            </w>
+            <w id="31T2S" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31tkJ" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+              <seg/>
+            </w>
+            <w id="31EXL" lemma="669" morph="HNp" n="1.1" x-source-word="אֶפְרַ֔יִם">(...)
+              <seg/>
+            </w>
+            <w id="31ZPN" lemma="c/853" morph="HC/To" n="1.0" x-source-word="וְ/אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="31q1G" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+              <seg/>
+            </w>
+            <w id="31bYD" lemma="8111" morph="HNp" n="1" x-source-word="שֹׁמְר֑וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31v2F" lemma="c/1144" morph="HC/Np" n="0.0" x-source-word="וּ/בִנְיָמִ֖ן">(...)
+              <seg/>
+            </w>
+            <w id="317vt" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31kDm" lemma="d/1568" morph="HTd/Np" n="0" x-source-word="הַ/גִּלְעָֽד">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.20">
+            <seg/>
+            <w id="31doW" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֣ת">(...)
+              <seg/>
+            </w>
+            <w id="31eRa" lemma="d/2426" morph="HTd/Ncmsa" x-source-word="הַֽ/חֵל">(...)
+              <seg/>
+            </w>
+            <w id="31kDf" lemma="d/2088" morph="HTd/Pdxms" n="1.1.0.0" x-source-word="הַ֠/זֶּה">(...)
+              <seg/>
+            </w>
+            <w id="3163G" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵ֨י">(...)
+              <seg/>
+            </w>
+            <w id="31WPn" lemma="3478" morph="HNp" x-source-word="יִשְׂרָאֵ֤ל">(...)
+              <seg/>
+            </w>
+            <w id="311jv" lemma="834 a" morph="HTr" x-source-word="אֲשֶֽׁר">(...)
+              <seg/>
+            </w>
+            <w id="31cK8" lemma="3669 a" morph="HNgmpa" n="1.1.0" x-source-word="כְּנַעֲנִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31DDb" lemma="5704" morph="HR" x-source-word="עַד">(...)
+              <seg/>
+            </w>
+            <w id="31RCg" lemma="6886" morph="HNp" n="1.1" x-source-word="צָ֣רְפַ֔ת">(...)
+              <seg/>
+            </w>
+            <w id="315KE" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֥ת">(...)
+              <seg/>
+            </w>
+            <w id="31qVd" lemma="3389" morph="HNp" n="1.0" x-source-word="יְרוּשָׁלִַ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31koG" lemma="834 a" morph="HTr" x-source-word="אֲשֶׁ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31e6B" lemma="b/5614" morph="HR/Np" n="1" x-source-word="בִּ/סְפָרַ֑ד">(...)
+              <seg/>
+            </w>
+            <w id="318GY" lemma="3423" morph="HVqi3mp" n="0.1" x-source-word="יִֽרְשׁ֕וּ">(...)
+              <seg/>
+            </w>
+            <w id="31GpK" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="3168C" lemma="5892 b" morph="HNcfpc" x-source-word="עָרֵ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31CMz" lemma="d/5045" morph="HTd/Ncmsa" n="0" x-source-word="הַ/נֶּֽגֶב">(...)
+              <seg/>
+            </w>
+          </verses>
+          <verses osisID="Obad.1.21">
+            <seg/>
+            <w id="31D4c" lemma="c/5927" morph="HC/Vqq3cp" x-source-word="וְ/עָל֤וּ">(...)
+              <seg/>
+            </w>
+            <w id="31ta1" lemma="3467" morph="HVhrmpa" n="1.1.0" x-source-word="מֽוֹשִׁעִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31JnD" lemma="b/2022" morph="HR/Ncmsc" x-source-word="בְּ/הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31jfz" lemma="6726" morph="HNp" n="1.1" x-source-word="צִיּ֔וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31ErQ" lemma="l/8199" morph="HR/Vqc" n="1.0" x-source-word="לִ/שְׁפֹּ֖ט">(...)
+              <seg/>
+            </w>
+            <w id="314fv" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31yDv" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31jyT" lemma="6215" morph="HNp" n="1" x-source-word="עֵשָׂ֑ו">(...)
+              <seg/>
+            </w>
+            <w id="31Unh" lemma="c/1961" morph="HC/Vqq3fs" x-source-word="וְ/הָיְתָ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31QH2" lemma="l/3068" morph="HR/Np" n="0.0" x-source-word="לַֽ/יהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31xxn" lemma="d/4410" morph="HTd/Ncfsa" n="0" x-source-word="הַ/מְּלוּכָֽה">(...)
+              <seg/>
+            </w>
+          </verses>
+        </verses>
+        <osisVerses>
+          <osisVerses osisID="Obad.1.1">
+            <seg/>
+            <w id="31xeN" lemma="2377" morph="HNcmsc" n="1.0" x-source-word="חֲז֖וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31Nvk" lemma="5662" morph="HNp" n="1" x-source-word="עֹֽבַדְיָ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31TyA" lemma="3541" morph="HD" x-source-word="כֹּֽה">(...)
+              <seg/>
+            </w>
+            <w id="31vuQ" lemma="559" morph="HVqp3ms" x-source-word="אָמַר֩">(...)
+              <seg/>
+            </w>
+            <w id="31TSc" lemma="136" morph="HNcmpc/Sp1cs" x-source-word="אֲדֹנָ֨/י">(...)
+              <seg/>
+            </w>
+            <w id="31k5P" lemma="3069" morph="HNp" n="0.0.2.0" x-source-word="יְהוִ֜ה">(...)
+              <seg/>
+            </w>
+            <w id="31nPh" lemma="l/123" morph="HR/Np" n="0.0.2" x-source-word="לֶ/אֱד֗וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31LN3" lemma="8052" morph="HNcfsa" x-source-word="שְׁמוּעָ֨ה">(...)
+              <seg/>
+            </w>
+            <w id="31Qzf" lemma="8085" morph="HVqp1cp" n="0.0.1.0" x-source-word="שָׁמַ֜עְנוּ">(...)
+              <seg/>
+            </w>
+            <w id="31aPd" lemma="m/854" morph="HR/R" x-source-word="מֵ/אֵ֤ת">(...)
+              <seg/>
+            </w>
+            <w id="31eYX" lemma="3068" morph="HNp" n="0.0.1" x-source-word="יְהוָה֙">(...)
+              <seg/>
+            </w>
+            <w id="31C5U" lemma="c/6735 a" morph="HC/Ncmsa" n="0.0.0" x-source-word="וְ/צִיר֙">(...)
+              <seg/>
+            </w>
+            <w id="31qNN" lemma="b/1471 a" morph="HRd/Ncmpa" x-source-word="בַּ/גּוֹיִ֣ם">(...)
+              <seg/>
+            </w>
+            <w id="31EVS" lemma="7971" morph="HVPp3ms" n="0.0" x-source-word="שֻׁלָּ֔ח">(...)
+              <seg/>
+            </w>
+            <w id="31PB6" lemma="6965 b" morph="HVqv2mp" x-source-word="ק֛וּמוּ">(...)
+              <seg/>
+            </w>
+            <w id="3137c" lemma="c/6965 b" morph="HC/Vqh1cp" x-source-word="וְ/נָק֥וּמָה">(...)
+              <seg/>
+            </w>
+            <w id="31x9c" lemma="5921 a" morph="HR/Sp3fs" x-source-word="עָלֶי/הָ">(...)
+              <seg/>
+            </w>
+            <w id="31yNB" lemma="l/4421" morph="HRd/Ncfsa" n="0" x-source-word="לַ/מִּלְחָמָֽה">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.2">
+            <seg/>
+            <w id="3129t" lemma="2009" morph="HTm" x-source-word="הִנֵּ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31KZG" lemma="6996 b" morph="HAamsa" n="1.0.0" x-source-word="קָטֹ֛ן">(...)
+              <seg/>
+            </w>
+            <w id="31TZE" lemma="5414" morph="HVqp1cs/Sp2ms" n="1.0" x-source-word="נְתַתִּ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31thY" lemma="b/1471 a" morph="HRd/Ncmpa" n="1" x-source-word="בַּ/גּוֹיִ֑ם">(...)
+              <seg/>
+            </w>
+            <w id="31JM7" lemma="959" morph="HVqsmsa" x-source-word="בָּז֥וּי">(...)
+              <seg/>
+            </w>
+            <w id="31fpo" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31W26" lemma="3966" morph="HD" n="0" x-source-word="מְאֹֽד">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.3">
+            <seg/>
+            <w id="31yw4" lemma="2087" morph="HNcmsc" x-source-word="זְד֤וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31jbg" lemma="3820 a" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="לִבְּ/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31USR" lemma="5377" morph="HVhp3ms/Sp2ms" n="1.1" x-source-word="הִשִּׁיאֶ֔/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31v6U" lemma="7931" morph="HVqrmsc" x-source-word="שֹׁכְנִ֥י">(...)
+              <seg/>
+            </w>
+            <w id="315SS" lemma="b/2288" morph="HR/Ncmpc" x-source-word="בְ/חַגְוֵי">(...)
+              <seg/>
+            </w>
+            <w id="31GzE" lemma="5553" morph="HNcmsa" n="1.0" x-source-word="סֶּ֖לַע">(...)
+              <seg/>
+            </w>
+            <w id="31qCU" lemma="4791" morph="HNcmsc" x-source-word="מְר֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31g2y" lemma="7675" morph="HNcfsc/Sp3ms" n="1" x-source-word="שִׁבְתּ֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31jQb" lemma="559" morph="HVqrmsa" x-source-word="אֹמֵ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31794" lemma="b/3820 a" morph="HR/Ncmsc/Sp3ms" n="0.1" x-source-word="בְּ/לִבּ֔/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31CsU" lemma="4310" morph="HTi" x-source-word="מִ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31XR4" lemma="3381" morph="HVhi3ms/Sp1cs" n="0.0" x-source-word="יוֹרִדֵ֖/נִי">(...)
+              <seg/>
+            </w>
+            <w id="31KvS" lemma="776" morph="HNcbsa" n="0" x-source-word="אָֽרֶץ">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.4">
+            <seg/>
+            <w id="31dBc" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31nAB" lemma="1361" morph="HVhi2ms" x-source-word="תַּגְבִּ֣יהַּ">(...)
+              <seg/>
+            </w>
+            <w id="31kfX" lemma="k/5404" morph="HRd/Ncmsa" n="1.1" x-source-word="כַּ/נֶּ֔שֶׁר">(...)
+              <seg/>
+            </w>
+            <w id="31Wkf" lemma="c/518 a" morph="HC/C" x-source-word="וְ/אִם">(...)
+              <seg/>
+            </w>
+            <w id="31wrL" lemma="996" morph="HR" x-source-word="בֵּ֥ין">(...)
+              <seg/>
+            </w>
+            <w id="313TL" lemma="3556" morph="HNcmpa" n="1.0" x-source-word="כּֽוֹכָבִ֖ים">(...)
+              <seg/>
+            </w>
+            <w id="31LeN" lemma="7760 a" morph="HVqsmsa" x-source-word="שִׂ֣ים">(...)
+              <seg/>
+            </w>
+            <w id="31sMn" lemma="7064" morph="HNcmsc/Sp2ms" n="1" x-source-word="קִנֶּ֑/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31Y3z" lemma="m/8033" morph="HR/D" x-source-word="מִ/שָּׁ֥ם">(...)
+              <seg/>
+            </w>
+            <w id="31NQN" lemma="3381" morph="HVhi1cs/Sp2ms" n="0.0" x-source-word="אוֹרִֽידְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31uLf" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+              <seg/>
+            </w>
+            <w id="31kA7" lemma="3068" morph="HNp" n="0" x-source-word="יְהוָֽה">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.5">
+            <seg/>
+            <w id="313TS" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31NFp" lemma="1590" morph="HNcmpa" x-source-word="גַּנָּבִ֤ים">(...)
+              <seg/>
+            </w>
+            <w id="317am" lemma="935" morph="HVqp3cp" x-source-word="בָּאֽוּ">(...)
+              <seg/>
+            </w>
+            <w id="31hh7" lemma="l" morph="HR/Sp2ms" n="1.2.0" x-source-word="לְ/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31BsK" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31fsu" lemma="7703" morph="HVqrmpc" x-source-word="שׁ֣וֹדְדֵי">(...)
+              <seg/>
+            </w>
+            <w id="318M6" lemma="3915" morph="HNcmsa" n="1.2" x-source-word="לַ֔יְלָה">(...)
+              <seg/>
+            </w>
+            <w id="31wM5" lemma="349 a" morph="HTi" x-source-word="אֵ֣יךְ">(...)
+              <seg/>
+            </w>
+            <w id="31qty" lemma="1820" morph="HVNp2ms" n="1.1" x-source-word="נִדְמֵ֔יתָה">(...)
+              <seg/>
+            </w>
+            <w id="315gQ" lemma="i/3808" morph="HTi/Tn" x-source-word="הֲ/ל֥וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31Xw6" lemma="1589" morph="HVqi3mp" n="1.0" x-source-word="יִגְנְב֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31eHJ" lemma="1767" morph="HNcmsc/Sp3mp" n="1" x-source-word="דַּיָּ֑/ם">(...)
+              <seg/>
+            </w>
+            <w id="31H6L" lemma="518 a" morph="HC" x-source-word="אִם">(...)
+              <seg/>
+            </w>
+            <w id="31bmv" lemma="1219" morph="HVqrmpa" n="0.1.0" x-source-word="בֹּֽצְרִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31FV9" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+              <seg/>
+            </w>
+            <w id="31Xm1" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָ֔/ךְ">(...)
+              <seg/>
+            </w>
+            <w id="31UE6" lemma="i/3808" morph="HTi/Tn" n="0.0" x-source-word="הֲ/ל֖וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31goK" lemma="7604" morph="HVhi3mp" x-source-word="יַשְׁאִ֥ירוּ">(...)
+              <seg/>
+            </w>
+            <w id="31CyH" lemma="5955" morph="HNcfpa" n="0" x-source-word="עֹלֵלֽוֹת">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.6">
+            <seg/>
+            <w id="31A4a" lemma="349 a" morph="HTi" n="0.1.0" x-source-word="אֵ֚יךְ">(...)
+              <seg/>
+            </w>
+            <w id="315Pr" lemma="2664" morph="HVNp3cp" x-source-word="נֶחְפְּשׂ֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31L4k" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+              <seg/>
+            </w>
+            <w id="31Mnv" lemma="1158" morph="HVNp3cp" n="0.0" x-source-word="נִבְע֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31mwU" lemma="4710" morph="HNcmpc/Sp3ms" n="0" x-source-word="מַצְפֻּנָֽי/ו">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.7">
+            <seg/>
+            <w id="31tKT" lemma="5704" morph="HR" x-source-word="עַֽד">(...)
+              <seg/>
+            </w>
+            <w id="31NRT" lemma="d/1366" morph="HTd/Ncmsa" x-source-word="הַ/גְּב֣וּל">(...)
+              <seg/>
+            </w>
+            <w id="31sRU" lemma="7971" morph="HVpp3cp/Sp2ms" n="1.1.1" x-source-word="שִׁלְּח֗וּ/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31Wxq" lemma="3605" morph="HNcmsc" n="1.1.0" x-source-word="כֹּ֚ל">(...)
+              <seg/>
+            </w>
+            <w id="319qY" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+              <seg/>
+            </w>
+            <w id="31n5f" lemma="1285" morph="HNcfsc/Sp2ms" n="1.1" x-source-word="בְרִיתֶ֔/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31YUq" lemma="5377" morph="HVhp3cp/Sp2ms" n="1.0.0" x-source-word="הִשִּׁיא֛וּ/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31fQr" lemma="3201" morph="HVqp3cp" x-source-word="יָכְל֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31L7t" lemma="l" morph="HR/Sp2ms" n="1.0" x-source-word="לְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31A74" lemma="376" morph="HNcmpc" x-source-word="אַנְשֵׁ֣י">(...)
+              <seg/>
+            </w>
+            <w id="31dNE" lemma="7965" morph="HNcmsc/Sp2ms" n="1" x-source-word="שְׁלֹמֶ֑/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31xdF" lemma="3899" morph="HNcbsc/Sp2ms" n="0.1.1" x-source-word="לַחְמְ/ךָ֗">(...)
+              <seg/>
+            </w>
+            <w id="31AYg" lemma="7760 a" morph="HVqi3mp" x-source-word="יָשִׂ֤ימוּ">(...)
+              <seg/>
+            </w>
+            <w id="31Ls9" lemma="4204" morph="HNcmsa" n="0.1.0" x-source-word="מָזוֹר֙">(...)
+              <seg/>
+            </w>
+            <w id="31Snp" lemma="8478" morph="HR/Sp2ms" n="0.1" x-source-word="תַּחְתֶּ֔י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="3187B" lemma="369" morph="HTn" x-source-word="אֵ֥ין">(...)
+              <seg/>
+            </w>
+            <w id="31nLp" lemma="8394" morph="HNcfsa" n="0.0" x-source-word="תְּבוּנָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31PzC" lemma="b" morph="HR/Sp3ms" n="0" x-source-word="בּֽ/וֹ">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.8">
+            <seg/>
+            <w id="31NPq" lemma="i/3808" morph="HTi/Tn" n="1.0.0" x-source-word="הֲ/ל֛וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31d5m" lemma="b/3117" morph="HRd/Ncmsa" x-source-word="בַּ/יּ֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31BYa" lemma="d/1931" morph="HTd/Pp3ms" n="1.0" x-source-word="הַ/ה֖וּא">(...)
+              <seg/>
+            </w>
+            <w id="31LJh" lemma="5002" morph="HNcmsc" x-source-word="נְאֻם">(...)
+              <seg/>
+            </w>
+            <w id="31tRR" lemma="3068" morph="HNp" n="1" x-source-word="יְהוָ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31Q7E" lemma="c/6" morph="HC/Vhq1cs" x-source-word="וְ/הַאֲבַדְתִּ֤י">(...)
+              <seg/>
+            </w>
+            <w id="31dv1" lemma="2450" morph="HAampa" n="0.1.0" x-source-word="חֲכָמִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31QwM" lemma="m/123" morph="HR/Np" n="0.1" x-source-word="מֵֽ/אֱד֔וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31a62" lemma="c/8394" morph="HC/Ncfsa" n="0.0" x-source-word="וּ/תְבוּנָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31KvD" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31GLz" lemma="6215" morph="HNp" n="0" x-source-word="עֵשָֽׂו">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.9">
+            <seg/>
+            <w id="31BU7" lemma="c/2865" morph="HC/Vqq3cp" x-source-word="וְ/חַתּ֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31iy2" lemma="1368" morph="HAampc/Sp2ms" n="1.0" x-source-word="גִבּוֹרֶ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31zQ2" lemma="8487" morph="HNp" n="1" x-source-word="תֵּימָ֑ן">(...)
+              <seg/>
+            </w>
+            <w id="31Wxx" lemma="4616" morph="HR" x-source-word="לְמַ֧עַן">(...)
+              <seg/>
+            </w>
+            <w id="31jQ8" lemma="3772" morph="HVNi3ms" x-source-word="יִכָּֽרֶת">(...)
+              <seg/>
+            </w>
+            <w id="31Haa" lemma="376" morph="HNcmsa" n="0.0.0" x-source-word="אִ֛ישׁ">(...)
+              <seg/>
+            </w>
+            <w id="31fJN" lemma="m/2022" morph="HR/Ncmsc" x-source-word="מֵ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="319KV" lemma="6215" morph="HNp" n="0.0" x-source-word="עֵשָׂ֖ו">(...)
+              <seg/>
+            </w>
+            <w id="31F1s" lemma="m/6993" morph="HR/Ncmsa" n="0" x-source-word="מִ/קָּֽטֶל">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.10">
+            <seg/>
+            <w id="31dns" lemma="m/2555" morph="HR/Ncmsc" n="1.0.0" x-source-word="מֵ/חֲמַ֛ס">(...)
+              <seg/>
+            </w>
+            <w id="31GK3" lemma="251" morph="HNcmsc/Sp2ms" x-source-word="אָחִ֥י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="31nRZ" lemma="3290" morph="HNp" n="1.0" x-source-word="יַעֲקֹ֖ב">(...)
+              <seg/>
+            </w>
+            <w id="31cpb" lemma="3680" morph="HVpi3fs/Sp2ms" x-source-word="תְּכַסְּ/ךָ֣">(...)
+              <seg/>
+            </w>
+            <w id="31zio" lemma="955" morph="HNcfsa" n="1" x-source-word="בוּשָׁ֑ה">(...)
+              <seg/>
+            </w>
+            <w id="31Qsh" lemma="c/3772" morph="HC/VNq2ms" n="0.0" x-source-word="וְ/נִכְרַ֖תָּ">(...)
+              <seg/>
+            </w>
+            <w id="31zTj" lemma="l/5769" morph="HR/Ncmsa" n="0" x-source-word="לְ/עוֹלָֽם">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.11">
+            <seg/>
+            <w id="31fPi" lemma="b/3117" morph="HR/Ncmsc" n="1.1.0" x-source-word="בְּ/יוֹם֙">(...)
+              <seg/>
+            </w>
+            <w id="31GYe" lemma="5975" morph="HVqc/Sp2ms" x-source-word="עֲמָֽדְ/ךָ֣">(...)
+              <seg/>
+            </w>
+            <w id="31Bbz" lemma="m/5048" morph="HR/R" n="1.1" x-source-word="מִ/נֶּ֔גֶד">(...)
+              <seg/>
+            </w>
+            <w id="31VA9" lemma="b/3117" morph="HR/Ncmsc" n="1.0.0" x-source-word="בְּ/י֛וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31fV3" lemma="7617" morph="HVqc" x-source-word="שְׁב֥וֹת">(...)
+              <seg/>
+            </w>
+            <w id="31Sov" lemma="2114 a" morph="HAampa" n="1.0" x-source-word="זָרִ֖ים">(...)
+              <seg/>
+            </w>
+            <w id="31V27" lemma="2428" morph="HNcmsc/Sp3ms" n="1" x-source-word="חֵיל֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31ifp" lemma="c/5237" morph="HC/Aampa" n="0.1.1.0" x-source-word="וְ/נָכְרִ֞ים">(...)
+              <seg/>
+            </w>
+            <w id="317ZG" lemma="935" morph="HVqp3cp" x-source-word="בָּ֣אוּ">(...)
+              <seg/>
+            </w>
+            <w id="31B2d" lemma="8179" morph="HNcmsc/Sp3ms" type="x-ketiv" x-source-word="שער/ו">(...)
+              <seg/>
+            </w>
+            <w id="31SV6" lemma="c/5921 a" morph="HC/R" x-source-word="וְ/עַל">(...)
+              <seg/>
+            </w>
+            <w id="31G83" lemma="3389" morph="HNp" n="0.1.0" x-source-word="יְרוּשָׁלִַ֨ם֙">(...)
+              <seg/>
+            </w>
+            <w id="31vzS" lemma="3032" morph="HVqp3cp" x-source-word="יַדּ֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Gq9" lemma="1486" morph="HNcmsa" n="0.1" x-source-word="גוֹרָ֔ל">(...)
+              <seg/>
+            </w>
+            <w id="313y8" lemma="1571" morph="HTa" x-source-word="גַּם">(...)
+              <seg/>
+            </w>
+            <w id="31TXw" lemma="859 a" morph="HPp2ms" n="0.0" x-source-word="אַתָּ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31Y4K" lemma="k/259" morph="HR/Acmsc" x-source-word="כְּ/אַחַ֥ד">(...)
+              <seg/>
+            </w>
+            <w id="31C32" lemma="m" morph="HR/Sp3mp" n="0" x-source-word="מֵ/הֶֽם">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.12">
+            <seg/>
+            <w id="31aMT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31Cof" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֤רֶא">(...)
+              <seg/>
+            </w>
+            <w id="31YWU" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְ/יוֹם">(...)
+              <seg/>
+            </w>
+            <w id="31rAQ" lemma="251" morph="HNcmsc/Sp2ms" n="1.1.0" x-source-word="אָחִ֨י/ךָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31fLi" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Ptj" lemma="5235" morph="HNcmsc/Sp3ms" n="1.1" x-source-word="נָכְר֔/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31AJj" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="319Hv" lemma="8055" morph="HVqj2ms" x-source-word="תִּשְׂמַ֥ח">(...)
+              <seg/>
+            </w>
+            <w id="31j1i" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵֽי">(...)
+              <seg/>
+            </w>
+            <w id="31J9J" lemma="3063" morph="HNp" n="1.0" x-source-word="יְהוּדָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31U4n" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="312Kt" lemma="6" morph="HVqc/Sp3mp" n="1" x-source-word="אָבְדָ֑/ם">(...)
+              <seg/>
+            </w>
+            <w id="31RmH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31SWL" lemma="1431" morph="HVhj2ms" x-source-word="תַּגְדֵּ֥ל">(...)
+              <seg/>
+            </w>
+            <w id="3175P" lemma="6310" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="פִּ֖י/ךָ">(...)
+              <seg/>
+            </w>
+            <w id="313Lj" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Qa3" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.13">
+            <seg/>
+            <w id="31WTe" lemma="408" morph="HTn" x-source-word="אַל">(...)
+              <seg/>
+            </w>
+            <w id="316VM" lemma="935" morph="HVqj2ms" x-source-word="תָּב֤וֹא">(...)
+              <seg/>
+            </w>
+            <w id="31sKn" lemma="b/8179" morph="HR/Ncmsc" x-source-word="בְ/שַֽׁעַר">(...)
+              <seg/>
+            </w>
+            <w id="31oAj" lemma="5971 a" morph="HNcmsc/Sp1cs" n="1.1.0" x-source-word="עַמִּ/י֙">(...)
+              <seg/>
+            </w>
+            <w id="31AxB" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31Ap3" lemma="343" morph="HNcmsc/Sp3mp" n="1.1" x-source-word="אֵידָ֔/ם">(...)
+              <seg/>
+            </w>
+            <w id="31CEu" lemma="408" morph="HTn" x-source-word="אַל">(...)
+              <seg/>
+            </w>
+            <w id="31zpy" lemma="7200" morph="HVqj2ms" x-source-word="תֵּ֧רֶא">(...)
+              <seg/>
+            </w>
+            <w id="31FiN" lemma="1571" morph="HD" x-source-word="גַם">(...)
+              <seg/>
+            </w>
+            <w id="31cLk" lemma="859 a" morph="HPp2ms" n="1.0.0" x-source-word="אַתָּ֛ה">(...)
+              <seg/>
+            </w>
+            <w id="3192v" lemma="b/7451 c" morph="HR/Ncfsc/Sp3ms" n="1.0" x-source-word="בְּ/רָעָת֖/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31j63" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֣וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31LFW" lemma="343" morph="HNcmsc/Sp3ms" n="1" x-source-word="אֵיד֑/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31FbT" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="31Bx7" lemma="7971" morph="HVqj2fp" x-source-word="תִּשְׁלַ֥חְנָה">(...)
+              <seg/>
+            </w>
+            <w id="31btu" lemma="b/2428" morph="HR/Ncmsc/Sp3ms" n="0.0" x-source-word="בְ/חֵיל֖/וֹ">(...)
+              <seg/>
+            </w>
+            <w id="31rTK" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31SHw" lemma="343" morph="HNcmsc/Sp3ms" n="0" x-source-word="אֵידֽ/וֹ">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.14">
+            <seg/>
+            <w id="31VuH" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַֽל">(...)
+              <seg/>
+            </w>
+            <w id="31Axb" lemma="5975" morph="HVqj2ms" n="1.1.0" x-source-word="תַּעֲמֹד֙">(...)
+              <seg/>
+            </w>
+            <w id="31xva" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="31NrT" lemma="d/6563" morph="HTd/Ncmsa" n="1.1" x-source-word="הַ/פֶּ֔רֶק">(...)
+              <seg/>
+            </w>
+            <w id="31iAD" lemma="l/3772" morph="HR/Vhc" n="1.0" x-source-word="לְ/הַכְרִ֖ית">(...)
+              <seg/>
+            </w>
+            <w id="31372" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31FMU" lemma="6412 a" morph="HNcmpc/Sp3ms" n="1" x-source-word="פְּלִיטָ֑י/ו">(...)
+              <seg/>
+            </w>
+            <w id="31SaV" lemma="c/408" morph="HC/Tn" x-source-word="וְ/אַל">(...)
+              <seg/>
+            </w>
+            <w id="314W9" lemma="5462" morph="HVhj2ms" x-source-word="תַּסְגֵּ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31MmM" lemma="8300" morph="HNcmpc/Sp3ms" n="0.0" x-source-word="שְׂרִידָ֖י/ו">(...)
+              <seg/>
+            </w>
+            <w id="31wJn" lemma="b/3117" morph="HR/Ncmsc" x-source-word="בְּ/י֥וֹם">(...)
+              <seg/>
+            </w>
+            <w id="31CQo" lemma="6869 b" morph="HNcfsa" n="0" x-source-word="צָרָֽה">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.15">
+            <seg/>
+            <w id="31XyU" lemma="3588 a" morph="HC" x-source-word="כִּֽי">(...)
+              <seg/>
+            </w>
+            <w id="31BG4" lemma="7138" morph="HAamsa" x-source-word="קָר֥וֹב">(...)
+              <seg/>
+            </w>
+            <w id="31YHH" lemma="3117" morph="HNcmsc" x-source-word="יוֹם">(...)
+              <seg/>
+            </w>
+            <w id="31sHf" lemma="3068" morph="HNp" n="1.0" x-source-word="יְהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31iee" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="313eS" lemma="3605" morph="HNcmsc" x-source-word="כָּל">(...)
+              <seg/>
+            </w>
+            <w id="31ddd" lemma="d/1471 a" morph="HTd/Ncmpa" n="1" x-source-word="הַ/גּוֹיִ֑ם">(...)
+              <seg/>
+            </w>
+            <w id="31hxo" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּ/אֲשֶׁ֤ר">(...)
+              <seg/>
+            </w>
+            <w id="31TW6" lemma="6213 a" morph="HVqp2ms" n="0.1.0" x-source-word="עָשִׂ֨יתָ֙">(...)
+              <seg/>
+            </w>
+            <w id="31PVx" lemma="6213 a" morph="HVNi3ms" x-source-word="יֵעָ֣שֶׂה">(...)
+              <seg/>
+            </w>
+            <w id="31PGK" lemma="l" morph="HR/Sp2fs" n="0.1" x-source-word="לָּ֔/ךְ">(...)
+              <seg/>
+            </w>
+            <w id="31U4a" lemma="1576" morph="HNcmsc/Sp2ms" n="0.0" x-source-word="גְּמֻלְ/ךָ֖">(...)
+              <seg/>
+            </w>
+            <w id="31dSQ" lemma="7725" morph="HVqi3ms" x-source-word="יָשׁ֥וּב">(...)
+              <seg/>
+            </w>
+            <w id="31Qbs" lemma="b/7218 a" morph="HR/Ncmsc/Sp2ms" n="0" x-source-word="בְּ/רֹאשֶֽׁ/ךָ">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.16">
+            <seg/>
+            <w id="31ndZ" lemma="3588 a" morph="HC" n="1.1.1" x-source-word="כִּ֗י">(...)
+              <seg/>
+            </w>
+            <w id="31Xa1" lemma="k/834 d" morph="HR/Tr" x-source-word="כַּֽ/אֲשֶׁ֤ר">(...)
+              <seg/>
+            </w>
+            <w id="313yJ" lemma="8354" morph="HVqp2mp" n="1.1.0" x-source-word="שְׁתִיתֶם֙">(...)
+              <seg/>
+            </w>
+            <w id="31B6c" lemma="5921 a" morph="HR" x-source-word="עַל">(...)
+              <seg/>
+            </w>
+            <w id="31bju" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31cn3" lemma="6944" morph="HNcmsc/Sp1cs" n="1.1" x-source-word="קָדְשִׁ֔/י">(...)
+              <seg/>
+            </w>
+            <w id="317mS" lemma="8354" morph="HVqi3mp" x-source-word="יִשְׁתּ֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31dJe" lemma="3605" morph="HNcmsc" x-source-word="כָֽל">(...)
+              <seg/>
+            </w>
+            <w id="31WvG" lemma="d/1471 a" morph="HTd/Ncmpa" n="1.0" x-source-word="הַ/גּוֹיִ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31RXg" lemma="8548" morph="HNcmsa" n="1" x-source-word="תָּמִ֑יד">(...)
+              <seg/>
+            </w>
+            <w id="31pqY" lemma="c/8354" morph="HC/Vqq3cp" x-source-word="וְ/שָׁת֣וּ">(...)
+              <seg/>
+            </w>
+            <w id="31n9v" lemma="c/3886 a" morph="HC/Vqq3cp" n="0.1" x-source-word="וְ/לָע֔וּ">(...)
+              <seg/>
+            </w>
+            <w id="31gYe" lemma="c/1961" morph="HC/Vqq3cp" n="0.0" x-source-word="וְ/הָי֖וּ">(...)
+              <seg/>
+            </w>
+            <w id="31eXj" lemma="k/3808" morph="HR/Tn" x-source-word="כְּ/ל֥וֹא">(...)
+              <seg/>
+            </w>
+            <w id="318ro" lemma="1961" morph="HVqp3cp" n="0" x-source-word="הָיֽוּ">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.17">
+            <seg/>
+            <w id="31v5z" lemma="c/b/2022" morph="HC/R/Ncmsc" x-source-word="וּ/בְ/הַ֥ר">(...)
+              <seg/>
+            </w>
+            <w id="31bCC" lemma="6726" morph="HNp" n="1.0.0" x-source-word="צִיּ֛וֹן">(...)
+              <seg/>
+            </w>
+            <w id="316By" lemma="1961" morph="HVqi3fs" x-source-word="תִּהְיֶ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31CZB" lemma="6413" morph="HNcfsa" n="1.0" x-source-word="פְלֵיטָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31VTb" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָ֣יָה">(...)
+              <seg/>
+            </w>
+            <w id="316qf" lemma="6944" morph="HNcmsa" n="1" x-source-word="קֹ֑דֶשׁ">(...)
+              <seg/>
+            </w>
+            <w id="31efz" lemma="c/3423" morph="HC/Vqq3cp" n="0.1.0" x-source-word="וְ/יָֽרְשׁוּ֙">(...)
+              <seg/>
+            </w>
+            <w id="31QG5" lemma="1004 b" morph="HNcmsc" x-source-word="בֵּ֣ית">(...)
+              <seg/>
+            </w>
+            <w id="313k3" lemma="3290" morph="HNp" n="0.1" x-source-word="יַֽעֲקֹ֔ב">(...)
+              <seg/>
+            </w>
+            <w id="311rL" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="31W2c" lemma="4180" morph="HNcmpc/Sp3mp" n="0" x-source-word="מוֹרָֽשֵׁי/הֶם">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.18">
+            <seg/>
+            <w id="31mL3" lemma="c/1961" morph="HC/Vqq3ms" x-source-word="וְ/הָיָה֩">(...)
+              <seg/>
+            </w>
+            <w id="31zfc" lemma="1004 b" morph="HNcmsc" x-source-word="בֵית">(...)
+              <seg/>
+            </w>
+            <w id="31sYp" lemma="3290" morph="HNp" x-source-word="יַעֲקֹ֨ב">(...)
+              <seg/>
+            </w>
+            <w id="31GvF" lemma="784" morph="HNcbsa" n="1.1.1.0" x-source-word="אֵ֜שׁ">(...)
+              <seg/>
+            </w>
+            <w id="31dAC" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֧ית">(...)
+              <seg/>
+            </w>
+            <w id="31i4W" lemma="3130" morph="HNp" x-source-word="יוֹסֵ֣ף">(...)
+              <seg/>
+            </w>
+            <w id="31chR" lemma="3852" morph="HNcfsa" n="1.1.1" x-source-word="לֶהָבָ֗ה">(...)
+              <seg/>
+            </w>
+            <w id="31Ddq" lemma="c/1004 b" morph="HC/Ncmsc" x-source-word="וּ/בֵ֤ית">(...)
+              <seg/>
+            </w>
+            <w id="31dSp" lemma="6215" morph="HNp" n="1.1.0" x-source-word="עֵשָׂו֙">(...)
+              <seg/>
+            </w>
+            <w id="31ecS" lemma="l/7179" morph="HR/Ncmsa" n="1.1" x-source-word="לְ/קַ֔שׁ">(...)
+              <seg/>
+            </w>
+            <w id="312tG" lemma="c/1814" morph="HC/Vqq3cp" x-source-word="וְ/דָלְק֥וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Xzm" lemma="b" morph="HR/Sp3mp" n="1.0" x-source-word="בָ/הֶ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31CCj" lemma="c/398" morph="HC/Vqq3cp/Sp3mp" n="1" x-source-word="וַ/אֲכָל֑וּ/ם">(...)
+              <seg/>
+            </w>
+            <w id="31gV8" lemma="c/3808" morph="HC/Tn" x-source-word="וְ/לֹֽא">(...)
+              <seg/>
+            </w>
+            <w id="31Czz" lemma="1961" morph="HVqi3ms" x-source-word="יִֽהְיֶ֤ה">(...)
+              <seg/>
+            </w>
+            <w id="31uXX" lemma="8300" morph="HNcmsa" n="0.1.0" x-source-word="שָׂרִיד֙">(...)
+              <seg/>
+            </w>
+            <w id="31xCL" lemma="l/1004 b" morph="HR/Ncmsc" x-source-word="לְ/בֵ֣ית">(...)
+              <seg/>
+            </w>
+            <w id="31Qnr" lemma="6215" morph="HNp" n="0.1" x-source-word="עֵשָׂ֔ו">(...)
+              <seg/>
+            </w>
+            <w id="316kU" lemma="3588 a" morph="HC" x-source-word="כִּ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31qry" lemma="3068" morph="HNp" n="0.0" x-source-word="יְהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31bvP" lemma="1696" morph="HVpp3ms" n="0" x-source-word="דִּבֵּֽר">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.19">
+            <seg/>
+            <w id="31wjj" lemma="c/3423" morph="HC/Vqq3cp" x-source-word="וְ/יָרְשׁ֨וּ">(...)
+              <seg/>
+            </w>
+            <w id="31Tn7" lemma="d/5045" morph="HTd/Ncmsa" n="1.2.1.0" x-source-word="הַ/נֶּ֜גֶב">(...)
+              <seg/>
+            </w>
+            <w id="31hEs" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31xAF" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31qg1" lemma="6215" morph="HNp" n="1.2.1" x-source-word="עֵשָׂ֗ו">(...)
+              <seg/>
+            </w>
+            <w id="316w9" lemma="c/d/8219" morph="HC/Td/Ncfsa" n="1.2.0" x-source-word="וְ/הַ/שְּׁפֵלָה֙">(...)
+              <seg/>
+            </w>
+            <w id="31wA4" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31ibe" lemma="6430" morph="HNgmpa" n="1.2" x-source-word="פְּלִשְׁתִּ֔ים">(...)
+              <seg/>
+            </w>
+            <w id="31v8V" lemma="c/3423" morph="HC/Vqq3cp" n="1.1.0" x-source-word="וְ/יָרְשׁוּ֙">(...)
+              <seg/>
+            </w>
+            <w id="31T2S" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31tkJ" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+              <seg/>
+            </w>
+            <w id="31EXL" lemma="669" morph="HNp" n="1.1" x-source-word="אֶפְרַ֔יִם">(...)
+              <seg/>
+            </w>
+            <w id="31ZPN" lemma="c/853" morph="HC/To" n="1.0" x-source-word="וְ/אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="31q1G" lemma="7704 b" morph="HNcmsc" x-source-word="שְׂדֵ֣ה">(...)
+              <seg/>
+            </w>
+            <w id="31bYD" lemma="8111" morph="HNp" n="1" x-source-word="שֹׁמְר֑וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31v2F" lemma="c/1144" morph="HC/Np" n="0.0" x-source-word="וּ/בִנְיָמִ֖ן">(...)
+              <seg/>
+            </w>
+            <w id="317vt" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31kDm" lemma="d/1568" morph="HTd/Np" n="0" x-source-word="הַ/גִּלְעָֽד">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.20">
+            <seg/>
+            <w id="31doW" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֣ת">(...)
+              <seg/>
+            </w>
+            <w id="31eRa" lemma="d/2426" morph="HTd/Ncmsa" x-source-word="הַֽ/חֵל">(...)
+              <seg/>
+            </w>
+            <w id="31kDf" lemma="d/2088" morph="HTd/Pdxms" n="1.1.0.0" x-source-word="הַ֠/זֶּה">(...)
+              <seg/>
+            </w>
+            <w id="3163G" lemma="l/1121 a" morph="HR/Ncmpc" x-source-word="לִ/בְנֵ֨י">(...)
+              <seg/>
+            </w>
+            <w id="31WPn" lemma="3478" morph="HNp" x-source-word="יִשְׂרָאֵ֤ל">(...)
+              <seg/>
+            </w>
+            <w id="311jv" lemma="834 a" morph="HTr" x-source-word="אֲשֶֽׁר">(...)
+              <seg/>
+            </w>
+            <w id="31cK8" lemma="3669 a" morph="HNgmpa" n="1.1.0" x-source-word="כְּנַעֲנִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31DDb" lemma="5704" morph="HR" x-source-word="עַד">(...)
+              <seg/>
+            </w>
+            <w id="31RCg" lemma="6886" morph="HNp" n="1.1" x-source-word="צָ֣רְפַ֔ת">(...)
+              <seg/>
+            </w>
+            <w id="315KE" lemma="c/1546" morph="HC/Ncfsc" x-source-word="וְ/גָלֻ֥ת">(...)
+              <seg/>
+            </w>
+            <w id="31qVd" lemma="3389" morph="HNp" n="1.0" x-source-word="יְרוּשָׁלִַ֖ם">(...)
+              <seg/>
+            </w>
+            <w id="31koG" lemma="834 a" morph="HTr" x-source-word="אֲשֶׁ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31e6B" lemma="b/5614" morph="HR/Np" n="1" x-source-word="בִּ/סְפָרַ֑ד">(...)
+              <seg/>
+            </w>
+            <w id="318GY" lemma="3423" morph="HVqi3mp" n="0.1" x-source-word="יִֽרְשׁ֕וּ">(...)
+              <seg/>
+            </w>
+            <w id="31GpK" lemma="853" morph="HTo" n="0.0" x-source-word="אֵ֖ת">(...)
+              <seg/>
+            </w>
+            <w id="3168C" lemma="5892 b" morph="HNcfpc" x-source-word="עָרֵ֥י">(...)
+              <seg/>
+            </w>
+            <w id="31CMz" lemma="d/5045" morph="HTd/Ncmsa" n="0" x-source-word="הַ/נֶּֽגֶב">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+          <osisVerses osisID="Obad.1.21">
+            <seg/>
+            <w id="31D4c" lemma="c/5927" morph="HC/Vqq3cp" x-source-word="וְ/עָל֤וּ">(...)
+              <seg/>
+            </w>
+            <w id="31ta1" lemma="3467" morph="HVhrmpa" n="1.1.0" x-source-word="מֽוֹשִׁעִים֙">(...)
+              <seg/>
+            </w>
+            <w id="31JnD" lemma="b/2022" morph="HR/Ncmsc" x-source-word="בְּ/הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31jfz" lemma="6726" morph="HNp" n="1.1" x-source-word="צִיּ֔וֹן">(...)
+              <seg/>
+            </w>
+            <w id="31ErQ" lemma="l/8199" morph="HR/Vqc" n="1.0" x-source-word="לִ/שְׁפֹּ֖ט">(...)
+              <seg/>
+            </w>
+            <w id="314fv" lemma="853" morph="HTo" x-source-word="אֶת">(...)
+              <seg/>
+            </w>
+            <w id="31yDv" lemma="2022" morph="HNcmsc" x-source-word="הַ֣ר">(...)
+              <seg/>
+            </w>
+            <w id="31jyT" lemma="6215" morph="HNp" n="1" x-source-word="עֵשָׂ֑ו">(...)
+              <seg/>
+            </w>
+            <w id="31Unh" lemma="c/1961" morph="HC/Vqq3fs" x-source-word="וְ/הָיְתָ֥ה">(...)
+              <seg/>
+            </w>
+            <w id="31QH2" lemma="l/3068" morph="HR/Np" n="0.0" x-source-word="לַֽ/יהוָ֖ה">(...)
+              <seg/>
+            </w>
+            <w id="31xxn" lemma="d/4410" morph="HTd/Ncfsa" n="0" x-source-word="הַ/מְּלוּכָֽה">(...)
+              <seg/>
+            </w>
+          </osisVerses>
+        </osisVerses>
+        <uniqueId>Obad.1</uniqueId>
+      </chapter>
+    </div>
+  </osisText>
+  <schemaLocation>http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/osisCore.2.1.1.xsd</schemaLocation>
+</OsisDocument>
