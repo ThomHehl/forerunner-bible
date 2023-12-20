@@ -1,0 +1,4 @@
+#Settings for KeyedSequentialFile
+#Sun Dec 10 15:00:10 EST 2023
+KEY_LENGTH=12
+DATA_LENGTH=100
